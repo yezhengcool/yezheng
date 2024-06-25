@@ -39,6 +39,10 @@ https://event.pull.hebtv.com/jishi/cp4.m3u8
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel12/2300.m3u8
 #EXTINF:-1 group-title="叶峥工作室测试频道-央视台" tvg-id="CCTV-15音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV-15音乐
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel40/1300.m3u8
+#EXTINF:-1 group-title="叶峥工作室测试频道-央视台" tvg-id="CCTV-16奥林匹克" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16奥林匹克
+http://23.237.196.98:680/live/CCTV16HD/hls.m3u8
+#EXTINF:-1 group-title="叶峥工作室测试频道-央视台" tvg-id="CCTV-17农业农村" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV-17农业农村
+http://xyt.186738613.xyz/lngd.php?id=204&Cf.m3u8
 #EXTINF:-1 group-title="叶峥工作室测试频道-卫视台" tvg-id="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel24/2300.m3u8
 #EXTINF:-1 group-title="叶峥工作室测试频道-卫视台" tvg-id="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
