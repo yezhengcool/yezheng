@@ -84,9 +84,11 @@ http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel64/130
 #EXTINF:-1 group-title="叶峥工作室测试频道-卫视台" tvg-id="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png",兵团卫视
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 group-title="叶峥工作室测试频道-教育" tvg-id="CETV1中国教育电视台一套" tvg-logo="https://live.fanmingming.com/tv/CETV1.png",CETV1中国教育电视台一套
-http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
+http://hwylivehd.centv.cn/cetv1/ypd.m3u8
+#EXTINF:-1 group-title="叶峥工作室测试频道-教育" tvg-id="CETV2中国教育电视台二套" tvg-logo="https://live.fanmingming.com/tv/CETV2.png",CETV2中国教育电视台二套
+http://hwylivehd.centv.cn/cetv2/2020tsytk.m3u8
 #EXTINF:-1 group-title="叶峥工作室测试频道-教育" tvg-id="CETV4空中课堂频道" tvg-logo="https://live.fanmingming.com/tv/CETV4.png",CETV4空中课堂频道
-http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel38/1300.m3u8
+http://hwylivehd.centv.cn/cetv4/zjpd.m3u8
 #EXTINF:-1 group-title="叶峥工作室测试频道-卫视台" tvg-id="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png",山东卫视
 http://lives.jnnews.tv/video/s10001-SDTV/index.m3u8
 #EXTINF:-1 group-title="叶峥工作室测试频道-卫视台" tvg-id="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png",贵州卫视
