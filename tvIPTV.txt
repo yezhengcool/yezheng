@@ -443,3 +443,6 @@ Rakuten Action,https://rakuten-actionmovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
 Rakuten Thriller,https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8
 Rakuten British Films,https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8
 Global Fashion Channel,https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8f
+
+爽歪歪,#genre#
+🍲11传媒01,https://w9n761.cdnedge.live/file/avple-asserts/hls/636fa176e4566a285cc29919/playlist.m3u8
