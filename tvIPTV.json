@@ -4,8 +4,8 @@
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "sites": [
     {
-      "key": "豆豆",
-      "name": "豆豆",
+      "key": "叶峥工作室",
+      "name": "叶峥工作室",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 1,
@@ -366,7 +366,7 @@
     {
       "name": "IPV6",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yezhengcool/yezheng/main/tvIPTV.m3u",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yezhengcool/yezheng/main/tvIPTV.txt",
       "playerType": 1
     }
   ]
