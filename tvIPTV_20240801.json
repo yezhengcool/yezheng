@@ -109,14 +109,14 @@
     },
     {
       "key": "zxzj",
-      "name": "在线",
+      "name": "饭太硬",
       "type": 3,
       "api": "csp_Zxzj",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.zxzjhd.com/"
+      "ext": "http://www.饭太硬.com/tv/"
     },
     {
       "key": "可可",
