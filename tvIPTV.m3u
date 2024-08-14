@@ -225,10 +225,6 @@ http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000324/index.m3u8?
 http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000327/index.m3u8?
 #EXTINF:-1 tvg-id="GS05" tvg-name="甘肃文化影视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gansu/Gansu3.png" group-title="地方",甘肃文化
 http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000323/index.m3u8?
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="地方",黑莓电影
-http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="地方",黑莓动画
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="地方",浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="地方",浙江国际
