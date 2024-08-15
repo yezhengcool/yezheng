@@ -146,7 +146,7 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海",东方卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="上海",上海新闻综合
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+https://mgsp-tx2.live.miguvideo.com/migu/kailu/xwzhhd265/54/20200407/01.m3u8?msisdn=49195706391868b8aec5517be69b4ecb&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139&timestamp=20240814232240&Channel_ID=0132_10010001005&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=114.84.30.104&SecurityKey=20240814232240&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=ZQ-A1-7.8.1-RELEASE&userid=&jmhm=&videocodec=h265&bean=mgspwww&sv=10000&ct=www&mtv_session=56f9efa6d90d204be44d4537d34d945b&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e554251b38aa488a7c9b2504e35912ac
 #EXTINF:-1 tvg-name="崇明电视台" tvg-logo="https://cs.xinpianchang.com/uploadfile/article/2021/03/31/606420a9c3229.jpeg" group-title="上海",崇明电视台
 https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 #EXTINF:-1 tvg-name="嘉定电视台" tvg-logo="https://iknow-pic.cdn.bcebos.com/fd039245d688d43f7a0776a37d1ed21b0ef43b31?x-bce-process=image%2Fresize%2Cm_lfit%2Cw_600%2Ch_800%2Climit_1%2Fquality%2Cq_85%2Fformat%2Cf_auto" group-title="上海",嘉定电视台
