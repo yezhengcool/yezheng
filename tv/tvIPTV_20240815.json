@@ -602,7 +602,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/yezhengcool/yezheng/main/tv/tvIPTV_20240801.txt",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yezhengcool/yezheng/main/tv/tvIPTV_20240801.txt",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
