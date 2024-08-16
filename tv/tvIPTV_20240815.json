@@ -7,7 +7,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "👇长按 主页 刷新-无片源就换 线路",
+      "name": "叶峥工作室，有疑问请联系QQ：253493781",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -1095,7 +1095,7 @@
  {
       "name": "TTLive",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yezhengcool/yezheng/main/tv/tvIPTV_20240801.txt",
       "playerType": 1,
       "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
     },
