@@ -125,6 +125,11 @@ BRTV-KAKU少儿,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PL
 湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北垄上,http://59.173.243.210:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 赤壁综合,https://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1735660799-0-0-1751de0a4678e4571fe2af86220e2a2b&extra_key=
+荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
+崇阳综合,http://61.184.176.248:10500/live/live.m3u8
+武汉新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
+武汉生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
+武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
 广西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 四川卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 江西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
