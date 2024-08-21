@@ -129,8 +129,8 @@ BRTV-KAKU少儿,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PL
 崇阳综合,http://61.184.176.248:10500/live/live.m3u8
 武汉新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 test2,http://stream.appwuhan.com/2tzb/sd/live.m3u8
-武汉科技,http://stream.appwuhan.com/3tzb/sd/live.m3u8
-武汉经济生活,http://stream.appwuhan.com/4tzb/sd/live.m3u8
+武汉科技生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
+武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
 武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
 test6,http://stream.appwuhan.com/6tzb/sd/live.m3u8
 广西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
