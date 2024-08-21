@@ -1116,7 +1116,7 @@
     {
       "name": "IPV6",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yezhengcool/yezheng/tv/main/2.m3u",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yezhengcool/yezheng/main/tv/2.m3u",
       "playerType": 1
     }
   ]
