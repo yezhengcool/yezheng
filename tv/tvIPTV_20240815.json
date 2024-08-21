@@ -1110,13 +1110,13 @@
     {
       "name": "TV",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yezhengcool/yezheng/main/tvIPTV.m3u",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yezhengcool/yezheng/main/tv/tvIPTV.m3u",
       "playerType": 1
     },
     {
       "name": "IPV6",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yezhengcool/yezheng/main/2.m3u",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yezhengcool/yezheng/tv/main/2.m3u",
       "playerType": 1
     }
   ]
