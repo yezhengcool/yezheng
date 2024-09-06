@@ -1764,6 +1764,504 @@
           "urls": [
             "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8"
           ]
+        },
+        {
+          "name": "赤壁综合",
+          "urls": [
+            "https://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1735660799-0-0-1751de0a4678e4571fe2af86220e2a2b&extra_key="
+          ]
+        },
+        {
+          "name": "荆门新闻综合",
+          "urls": [
+            "http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd"
+          ]
+        },
+        {
+          "name": "崇阳综合",
+          "urls": [
+            "http://61.184.176.248:10500/live/live.m3u8"
+          ]
+        },
+        {
+          "name": "武汉新闻",
+          "urls": [
+            "http://stream.appwuhan.com/1tzb/sd/live.m3u8"
+          ]
+        },
+        {
+          "name": "武汉科技生活频道",
+          "urls": [
+            "http://stream.appwuhan.com/3tzb/sd/live.m3u8"
+          ]
+        },
+        {
+          "name": "武汉教育",
+          "urls": [
+            "http://stream.appwuhan.com/jyzb/sd/live.m3u8"
+          ]
+        },
+        {
+          "name": "广西卫视",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8"
+          ]
+        },
+        {
+          "name": "四川卫视",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8"
+          ]
+        },
+        {
+          "name": "江西卫视",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8"
+          ]
+        },
+        {
+          "name": "河北卫视",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8"
+          ]
+        },
+        {
+          "name": "河北经济生活",
+          "urls": [
+            "https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1723796598&k=60b7be299453a3a36e08d003df0b200c"
+          ]
+        },
+        {
+          "name": "河北农民频道",
+          "urls": [
+            "https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1723796708&k=3dd49c3562ebaed577c9f19b7c742edd"
+          ]
+        },
+        {
+          "name": "河北都市",
+          "urls": [
+            "https://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=1723798789&k=7927b8b71332159e7ed9db2afec9a7d2"
+          ]
+        },
+        {
+          "name": "河北影视剧",
+          "urls": [
+            "https://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=1723796783&k=5628842557f436a595d79212ecc5bd78"
+          ]
+        },
+        {
+          "name": "河北少儿科教",
+          "urls": [
+            "https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1723796830&k=340935949fd3229173dd8f8b83d7e957"
+          ]
+        },
+        {
+          "name": "河北公共",
+          "urls": [
+            "https://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=1723796884&k=280d3ad76d6bb887cebce164c8669c66"
+          ]
+        },
+        {
+          "name": "河南卫视",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8"
+          ]
+        },
+        {
+          "name": "海南卫视",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8"
+          ]
+        },
+        {
+          "name": "海南新闻",
+          "urls": [
+            "http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/1.m3u8"
+          ]
+        },
+        {
+          "name": "海南自贸",
+          "urls": [
+            "http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/1.m3u8"
+          ]
+        },
+        {
+          "name": "海南文旅",
+          "urls": [
+            "http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/1.m3u8"
+          ]
+        },
+        {
+          "name": "海南少儿",
+          "urls": [
+            "http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8"
+          ]
+        },
+        {
+          "name": "海南公共",
+          "urls": [
+            "http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8"
+          ]
+        },
+        {
+          "name": "东南卫视",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8"
+          ]
+        },
+        {
+          "name": "贵州卫视",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8"
+          ]
+        },
+        {
+          "name": "吉林卫视",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8"
+          ]
+        },
+        {
+          "name": "云南卫视",
+          "urls": [
+            "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226444/index.m3u8"
+          ]
+        },
+        {
+          "name": "山西卫视",
+          "urls": [
+            "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226392/index.m3u8"
+          ]
+        },
+        {
+          "name": "山西影视",
+          "urls": [
+            "http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true"
+          ]
+        },
+        {
+          "name": "山西黄河",
+          "urls": [
+            "http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true"
+          ]
+        },
+        {
+          "name": "山西文体生活",
+          "urls": [
+            "http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true"
+          ]
+        },
+        {
+          "name": "山西社会与法治",
+          "urls": [
+            "http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true"
+          ]
+        },
+        {
+          "name": "山西经济与科技",
+          "urls": [
+            "http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true"
+          ]
+        },
+        {
+          "name": "陕西卫视",
+          "urls": [
+            "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226457/index.m3u8"
+          ]
+        },
+        {
+          "name": "三沙卫视",
+          "urls": [
+            "http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8"
+          ]
+        },
+        {
+          "name": "甘肃卫视",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8"
+          ]
+        },
+        {
+          "name": "青海卫视",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8"
+          ]
+        },
+        {
+          "name": "宁夏卫视",
+          "urls": [
+            "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226454/index.m3u8"
+          ]
+        },
+        {
+          "name": "新疆卫视",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8"
+          ]
+        },
+        {
+          "name": "兵团卫视",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8"
+          ]
+        },
+        {
+          "name": "延边卫视",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8"
+          ]
+        },
+        {
+          "name": "大湾区卫视",
+          "urls": [
+            "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/1.m3u8"
+          ]
+        },
+        {
+          "name": "安多卫视",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8"
+          ]
+        },
+        {
+          "name": "康巴卫视",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8"
+          ]
+        },
+        {
+          "name": "内蒙古卫视",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8"
+          ]
+        },
+        {
+          "name": "内蒙古新闻",
+          "urls": [
+            "https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800"
+          ]
+        },
+        {
+          "name": "内蒙古经济",
+          "urls": [
+            "https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800"
+          ]
+        },
+        {
+          "name": "内蒙古少儿",
+          "urls": [
+            "https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800"
+          ]
+        },
+        {
+          "name": "内蒙古文体",
+          "urls": [
+            "https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800"
+          ]
+        },
+        {
+          "name": "内蒙古农牧",
+          "urls": [
+            "https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800"
+          ]
+        },
+        {
+          "name": "西藏卫视",
+          "urls": [
+            "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226433/index.m3u8"
+          ]
+        },
+        {
+          "name": "精品萌宠",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8"
+          ]
+        },
+        {
+          "name": "优漫卡通",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8"
+          ]
+        },
+        {
+          "name": "哈哈炫动",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8"
+          ]
+        },
+        {
+          "name": "黑莓动画",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8"
+          ]
+        },
+        {
+          "name": "明星大片",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8"
+          ]
+        },
+        {
+          "name": "惊悚悬疑",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8"
+          ]
+        },
+        {
+          "name": "金牌综艺",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8"
+          ]
+        },
+        {
+          "name": "军事评论",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8"
+          ]
+        },
+        {
+          "name": "海外剧场",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8"
+          ]
+        },
+        {
+          "name": "精品大剧",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8"
+          ]
+        },
+        {
+          "name": "精品纪录",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8"
+          ]
+        },
+        {
+          "name": "精品体育",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8"
+          ]
+        },
+        {
+          "name": "哒啵赛事",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8"
+          ]
+        },
+        {
+          "name": "军旅剧场",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8"
+          ]
+        },
+        {
+          "name": "家庭剧场",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作电影",
+          "urls": [
+            "http://[2409:8087:5e00:24::1e]:6060/000000001000/8103864434730665389/1.m3u8"
+          ]
+        },
+        {
+          "name": "中国功夫",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8"
+          ]
+        },
+        {
+          "name": "潮妈辣婆",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8"
+          ]
+        },
+        {
+          "name": "超级综艺",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8"
+          ]
+        },
+        {
+          "name": "超级体育",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8"
+          ]
+        },
+        {
+          "name": "超级电视剧",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8"
+          ]
+        },
+        {
+          "name": "超清电影",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8"
+          ]
+        },
+        {
+          "name": "东北热剧",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8"
+          ]
+        },
+        {
+          "name": "欢乐剧场",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8"
+          ]
+        },
+        {
+          "name": "黑莓电影",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8"
+          ]
+        },
+        {
+          "name": "古装剧场",
+          "urls": [
+            "http://[2409:8087:5e00:24::1e]:6060/000000001000/6859053933687922163/1.m3u8"
+          ]
+        },
+        {
+          "name": "爱情喜剧",
+          "urls": [
+            "http://[2409:8087:5e00:24::1e]:6060/000000001000/8393829412396288037/1.m3u8"
+          ]
+        },
+        {
+          "name": "Newtv炫舞未来",
+          "urls": [
+            "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000000515/1.m3u8"
+          ]
+        },
+        {
+          "name": "咪咕晴彩青少(足球)",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8"
+          ]
+        },
+        {
+          "name": "咪咕晴彩篮球",
+          "urls": [
+            "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270002/1.m3u8"
+          ]
+        },
+        {
+          "name": "咪咕晴彩竞技",
+          "urls": [
+            "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270005/1.m3u8"
+          ]
+        },
+        {
+          "name": "足球频道",
+          "urls": [
+            "https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8#https://nmglive.imfc.cn/5n1r1c/182396.m3u8"
+          ]
         }
       ]
     },
