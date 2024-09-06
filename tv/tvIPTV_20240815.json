@@ -1209,6 +1209,66 @@
           "urls": [
             "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8"
           ]
+        },
+        {
+          "name": "CCTV-女性时尚",
+          "urls": [
+            "http://111.61.236.247:9081/hls/59/index.m3u8"
+          ]
+        },
+        {
+          "name": "CGTN英语",
+          "urls": [
+            "https://0472.org/hls/cgtn.m3u8"
+          ]
+        },
+        {
+          "name": "CGTN记录",
+          "urls": [
+            "https://0472.org/hls/cgtnd.m3u8"
+          ]
+        },
+        {
+          "name": "CGTN俄语",
+          "urls": [
+            "https://0472.org/hls/cgtne.m3u8"
+          ]
+        },
+        {
+          "name": "CGTN法语",
+          "urls": [
+            "https://0472.org/hls/cgtnf.m3u8"
+          ]
+        },
+        {
+          "name": "CGTN西语",
+          "urls": [
+            "https://0472.org/hls/cgtnx.m3u8"
+          ]
+        },
+        {
+          "name": "CGTN阿语",
+          "urls": [
+            "https://0472.org/hls/cgtna.m3u8"
+          ]
+        },
+        {
+          "name": "CETV-1",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8"
+          ]
+        },
+        {
+          "name": "CETV-2",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8"
+          ]
+        },
+        {
+          "name": "CETV-4",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8"
+          ]
         }
       ]
     },
