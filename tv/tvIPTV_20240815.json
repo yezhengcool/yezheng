@@ -1100,27 +1100,29 @@
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
   "lives": [
     {
-      "name": "live",
-      "type": 0,
-      "url": "https://raw.gitmirror.com/yezhengcool/yezheng/main/tv/tvIPTV_20240801.txt",
-      "playerType": 1,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
-      "name": "TV",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yezhengcool/yezheng/main/tv/tvIPTV.m3u",
-      "playerType": 1
-    },
-    {
-      "name": "IPV6",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yezhengcool/yezheng/main/tv/2.m3u",
-      "playerType": 1
+      "group": "自定义",
+      "channels": [
+        {
+          "name": "凤凰卫视",
+          "urls": [
+            "http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8",
+            "HD,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8",
+            "http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8",
+            "http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8"
+          ]
+        },
+        {
+          "name": "凤凰资讯",
+          "urls": [
+            "http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8",
+            "HD,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8",
+            "http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8"
+          ]
+        }
+      ]
     }
   ]
 }
-    
+
     
     
