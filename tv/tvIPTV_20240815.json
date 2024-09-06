@@ -1100,6 +1100,119 @@
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
   "lives": [
     {
+      "group": "央视",
+      "channels": [
+        {
+          "name": "CCTV-1",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8",
+          ]
+        },
+        {
+          "name": "CCTV-2",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-3",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-4",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-5",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-5+",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-6",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-7",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-8",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-9",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-10",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-11",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-12",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-13",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-14",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-15",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-16",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-17",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8"
+          ]
+        }
+      ]
+    },
+    {
       "group": "上海",
       "channels": [
         {
@@ -1111,7 +1224,6 @@
           ]
         },
         {
-
           "name": "上海都市",
           "urls": [
             "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000018926/1.m3u8",
