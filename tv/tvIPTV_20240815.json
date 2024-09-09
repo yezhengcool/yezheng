@@ -2095,6 +2095,12 @@
           ]
         },
         {
+          "name": "凤凰中文",
+          "urls": [
+            "http://s.cdhongyuan.cn:4022/udp/239.93.0.162:2192"
+          ]
+        },
+        {
           "name": "精品萌宠",
           "urls": [
             "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8"
