@@ -1584,7 +1584,8 @@
         {
           "name": "泰州一套新闻综合频道",
           "urls": [
-            "http://stream1.mytaizhou.net/xwzh/playlist.m3u8?_upt=61cec7f51701567130"
+            "http://stream1.mytaizhou.net/xwzh/playlist.m3u8?_upt=0ca46ab71719975836",
+            ""
           ]
         },
         {
@@ -1803,6 +1804,12 @@
           "name": "武汉新闻",
           "urls": [
             "http://stream.appwuhan.com/1tzb/sd/live.m3u8"
+          ]
+        },
+        {
+          "name": "武汉电视剧",
+          "urls": [
+            "http://www.furymax.top:85/rtp/239.69.1.146:10512"
           ]
         },
         {
