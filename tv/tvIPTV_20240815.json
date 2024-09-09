@@ -1354,9 +1354,9 @@
         {
           "name": "东方影视",
           "urls": [
-            "http://222.71.95.178:9901/tsfile/live/0001_19.m3u8?key=txiptv&playlive=1&authid=0",
             "http://58.41.27.144:18888/udp/239.45.3.237:5140",
-            "http://117.161.12.124/live/program/live/dsjpdhd/4000000/mnf.m3u8"
+            "http://117.161.12.124/live/program/live/dsjpdhd/4000000/mnf.m3u8",
+            "http://222.71.95.178:9901/tsfile/live/0001_19.m3u8?key=txiptv&playlive=1&authid=0"
           ]
         },
         {
