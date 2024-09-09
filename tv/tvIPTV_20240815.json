@@ -1409,7 +1409,7 @@
           "name": "七彩戏剧",
           "urls": [
             "http://www.17888.fun:10000/udp/239.45.0.16:5140",
-            "http://120.77.28.4:8648/mgu.php?id=qcxj",
+            "http://120.77.28.4:8648/mgu.php?id=qcxj"
           ]
         },
         {
@@ -2371,7 +2371,7 @@
           "urls": [
             "https://api.heimuer.app/play/f9b471ddd1ee425bb3c64a24f82561be.m3u8"
           ]
-        },
+        }
       ]
     },
     {
@@ -2392,7 +2392,7 @@
             "http://58.41.27.144:18888/udp/239.45.3.209:5140"
           ]
         },
-{
+        {
           "name": "崇明电视台",
           "urls": [
             "https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8"
@@ -2486,7 +2486,7 @@
           "name": "七彩戏剧",
           "urls": [
             "http://www.17888.fun:10000/udp/239.45.0.16:5140",
-            "http://120.77.28.4:8648/mgu.php?id=qcxj",
+            "http://120.77.28.4:8648/mgu.php?id=qcxj"
           ]
         },
         {
