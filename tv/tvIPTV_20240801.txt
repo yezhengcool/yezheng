@@ -254,7 +254,7 @@ Newtv炫舞未来,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000
 纯享4K,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011651/1.m3u8
 上海新闻,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031110
 星际穿越,https://api.heimuer.app/play/f9b471ddd1ee425bb3c64a24f82561be.m3u8
-东南卫视 HD,http://124.205.11.242:91/live/DNWShd-8M/live.m3u8
+北京卫视 HD,http://jxcbn.ws-cdn.gitv.tv/hls/BEIJHD/index.m3u8?gMac=unknown&livodToken=a03d2d8d7e5995cc88771669d9afacef2c4fd34206978b97b7f462f360cbde7c_1720504784_604800&fromCDN=ws
 
 央视,#genre#
 CCTV-1 综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
