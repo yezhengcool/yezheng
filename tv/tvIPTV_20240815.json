@@ -1309,6 +1309,7 @@
         {
           "name": "上海新闻",
           "urls": [
+            "http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3",
             "http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031110",
             "http://120.77.28.4:8648/mgu.php?id=shxwzh",
             "http://58.41.27.144:18888/udp/239.45.3.209:5140"
@@ -1794,6 +1795,51 @@
           ]
         },
         {
+          "name": "湖北综合",
+          "urls": [
+            "http://59.173.183.242:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0",
+            "http://27.24.20.43:9999/udp/239.69.1.42:9892"
+          ]
+        },
+        {
+          "name": "湖北经视",
+          "urls": [
+            "http://59.173.183.242:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0",
+            "http://58.48.37.158:1111/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "湖北生活",
+          "urls": [
+            "http://27.24.20.43:9999/udp/239.69.1.205:10872",
+            "http://27.30.72.53:8888/udp/239.69.1.205:10872",
+            "http://119.98.133.38:5555/udp/239.69.1.205:10872"
+          ]
+        },
+        {
+          "name": "湖北影视",
+          "urls": [
+            "http://27.24.20.43:9999/udp/239.69.1.204:10866",
+            "http://58.51.111.46:1111/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0",
+            "http://59.173.243.210:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0",
+            "http://58.48.37.158:1111/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "湖北教育",
+          "urls": [
+            "http://ht.ikhs.cn:8880/udp/239.69.1.206:10878",
+            "http://27.24.47.69:5555/udp/239.69.1.206:10878"
+          ]
+        },
+        {
+          "name": "湖北公共",
+          "urls": [
+            "http://27.24.47.69:5555/udp/239.69.1.40:9880",
+            "http://111.170.104.155:9999/udp/239.69.1.40:9880"
+          ]
+        },
+        {
           "name": "赤壁综合",
           "urls": [
             "https://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1735660799-0-0-1751de0a4678e4571fe2af86220e2a2b&extra_key="
@@ -1820,7 +1866,8 @@
         {
           "name": "武汉电视剧",
           "urls": [
-            "http://www.furymax.top:85/rtp/239.69.1.146:10512"
+            "http://58.48.37.158:1111/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0",
+            "http://59.173.243.210:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0"
           ]
         },
         {
@@ -2340,6 +2387,7 @@
         {
           "name": "上海新闻",
           "urls": [
+            "http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3",
             "http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031110",
             "http://120.77.28.4:8648/mgu.php?id=shxwzh",
             "http://58.41.27.144:18888/udp/239.45.3.209:5140"
