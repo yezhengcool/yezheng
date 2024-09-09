@@ -23,7 +23,7 @@ CCTV-第一剧场,http://www.lizhinas.top:8688/rtp/239.252.219.86:5140$江西cmc
 CCTV-风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
 CCTV-世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 CCTV-央视台球,http://www.lizhinas.top:8688/rtp/239.252.219.80:5140$江西cmc3+
-CCTV-高尔夫网秋,http://www.lizhinas.top:8688/rtp/239.252.219.95:5140$江西cmc3+
+CCTV-高尔夫网球,http://www.lizhinas.top:8688/rtp/239.252.219.95:5140$江西cmc3+
 CCTV-文化精品,http://www.lizhinas.top:8688/rtp/239.252.219.81:5140$江西cmc3+
 CCTV-怀旧剧场,http://110.241.188.219:808/hls/56/index.m3u8
 CCTV-风云剧场,http://110.241.188.219:808/hls/57/index.m3u8
