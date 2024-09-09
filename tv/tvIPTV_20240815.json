@@ -2570,6 +2570,203 @@
       "group": "数字频道",
       "channels": [
         {
+          "name": "精品萌宠",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8"
+          ]
+        },
+        {
+          "name": "优漫卡通",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8"
+          ]
+        },
+        {
+          "name": "哈哈炫动",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8"
+          ]
+        },
+        {
+          "name": "黑莓动画",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8"
+          ]
+        },
+        {
+          "name": "明星大片",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8"
+          ]
+        },
+        {
+          "name": "惊悚悬疑",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8"
+          ]
+        },
+        {
+          "name": "金牌综艺",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8"
+          ]
+        },
+        {
+          "name": "军事评论",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8"
+          ]
+        },
+        {
+          "name": "海外剧场",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8"
+          ]
+        },
+        {
+          "name": "精品大剧",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8"
+          ]
+        },
+        {
+          "name": "精品纪录",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8"
+          ]
+        },
+        {
+          "name": "精品体育",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8"
+          ]
+        },
+        {
+          "name": "哒啵赛事",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8"
+          ]
+        },
+        {
+          "name": "军旅剧场",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8"
+          ]
+        },
+        {
+          "name": "家庭剧场",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作电影",
+          "urls": [
+            "http://[2409:8087:5e00:24::1e]:6060/000000001000/8103864434730665389/1.m3u8"
+          ]
+        },
+        {
+          "name": "中国功夫",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8"
+          ]
+        },
+        {
+          "name": "潮妈辣婆",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8"
+          ]
+        },
+        {
+          "name": "超级综艺",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8"
+          ]
+        },
+        {
+          "name": "超级体育",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8"
+          ]
+        },
+        {
+          "name": "超级电视剧",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8"
+          ]
+        },
+        {
+          "name": "超清电影",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8"
+          ]
+        },
+        {
+          "name": "东北热剧",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8"
+          ]
+        },
+        {
+          "name": "欢乐剧场",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8"
+          ]
+        },
+        {
+          "name": "黑莓电影",
+          "urls": [
+            "http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8"
+          ]
+        },
+        {
+          "name": "古装剧场",
+          "urls": [
+            "http://[2409:8087:5e00:24::1e]:6060/000000001000/6859053933687922163/1.m3u8"
+          ]
+        },
+        {
+          "name": "爱情喜剧",
+          "urls": [
+            "http://[2409:8087:5e00:24::1e]:6060/000000001000/8393829412396288037/1.m3u8"
+          ]
+        },
+        {
+          "name": "Newtv炫舞未来",
+          "urls": [
+            "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000000515/1.m3u8"
+          ]
+        },
+        {
+          "name": "咪咕晴彩青少(足球)",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8"
+          ]
+        },
+        {
+          "name": "咪咕晴彩篮球",
+          "urls": [
+            "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270002/1.m3u8"
+          ]
+        },
+        {
+          "name": "咪咕晴彩竞技",
+          "urls": [
+            "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270005/1.m3u8"
+          ]
+        },
+        {
+          "name": "足球频道",
+          "urls": [
+            "https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8#https://nmglive.imfc.cn/5n1r1c/182396.m3u8"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "华城付费频道",
+      "channels": [
+        {
           "name": "CHC影迷电影",
           "urls": [
             "http://218.76.32.193:9901/tsfile/live/1019_1.m3u8",
