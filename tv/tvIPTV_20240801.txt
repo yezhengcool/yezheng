@@ -169,9 +169,9 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 湖北生活,http://27.24.20.43:9999/udp/239.69.1.205:10872
 湖北生活,http://27.30.72.53:8888/udp/239.69.1.205:10872
 湖北生活,http://119.98.133.38:5555/udp/239.69.1.205:10872
-湖北公共,http://59.173.243.210:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北公共,http://27.24.47.69:5555/udp/239.69.1.40:9880
-湖北公共,http://111.170.104.155:9999/udp/239.69.1.40:9880
+湖北公共·新闻,http://59.173.243.210:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北公共·新闻,http://27.24.47.69:5555/udp/239.69.1.40:9880
+湖北公共·新闻,http://111.170.104.155:9999/udp/239.69.1.40:9880
 湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://58.48.37.158:1111/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北垄上,http://59.173.243.210:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
