@@ -1,7 +1,9 @@
 全部,#genre#
 CCTV-1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+CCTV-1,http://sj.91kds.cn/api/get_channel.php?id=%E5%A4%AE%E8%A7%86&app=91ktv&netType=wifi&channel=umeng&ipv6Support=yes&version=2.2.6&deviceId=ffffffff-d00a-2756-ffff-ffffef05ac4a&mac=02:00:00:00:00:00&userToken=&isHaveFile=no&imei=123456&tm=1728891395&key=e856dda66f0ce858f2a57209ddc21c14&desc=%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%B9%BF%E7%94%B5%E7%BD%91
 CCTV-2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV-2,http://61.136.67.238:50085/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://sj.91kds.cn/api/get_channel.php?id=%E5%A4%AE%E8%A7%86&app=91ktv&netType=wifi&channel=umeng&ipv6Support=yes&version=2.2.6&deviceId=ffffffff-d00a-2756-ffff-ffffef05ac4a&mac=02:00:00:00:00:00&userToken=&isHaveFile=no&imei=123456&tm=1728891257&key=9e3d1815ed01568816cce7b7ef6b3885&desc=%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%B9%BF%E7%94%B5%E7%BD%91
 CCTV-3,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV-4K,http://125.89.163.44:8888/udp/239.77.0.174:5146
