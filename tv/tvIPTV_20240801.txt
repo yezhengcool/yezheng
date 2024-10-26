@@ -34,9 +34,11 @@ CCTV-高尔夫网球,http://www.lizhinas.top:8688/rtp/239.252.219.95:5140$江西
 CCTV-高尔夫网球,http://117.161.133.51:81/gitv_live/G_CCTV-GOLF-CQ/G_CCTV-GOLF-CQ.m3u8?p=GITV
 CCTV-文化精品,http://110.177.146.171:888/udp/239.1.1.91:8091
 CCTV-文化精品,http://222.169.41.210:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-文化精品,https://jump.taoiptv.cn/iptv1.php?id=100230&num=1&sign=fk3aks
 CCTV-怀旧剧场,http://112.234.23.81:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
 CCTV-风云剧场,http://110.241.188.219:808/hls/57/index.m3u8
+CCTV-风云剧场,http://110.177.146.171:888/udp/239.1.1.93:8093
 CCTV-女性时尚,http://110.177.146.171:888/udp/239.1.1.89:8089
 CCTV-女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
 CCTV-女性时尚 HD,http://110.177.146.171:888/udp/239.1.1.89:8089
