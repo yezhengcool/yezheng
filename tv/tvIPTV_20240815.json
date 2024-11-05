@@ -1,6 +1,6 @@
 {
   "spider": "https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/fan.txt",
-  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
       "key": "豆豆",
@@ -20,7 +20,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "Cloud-drive": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
         "from": "4k|auto",
         "siteUrl": "https://www.wogg.net/",
         "danMu": "弹"
