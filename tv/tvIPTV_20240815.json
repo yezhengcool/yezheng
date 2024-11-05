@@ -1,6 +1,6 @@
 {
   "spider": "https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/fan.txt",
-  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
       "key": "豆豆",
@@ -12,19 +12,10 @@
       "filterable": 0
     },
     {
-      "key": "玩偶",
-      "name": "👽玩偶哥哥┃4K弹幕",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "http://127.0.0.1:9978/file/XYQTVBox/Cloud-drive.txt",
-        "from": "4k|auto",
-        "siteUrl": "https://www.wogg.net/",
-        "danMu": "弹"
-      }
+      "key": "T4-黑狐",
+      "name": "影视-黑狐(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/heihu.php"
     },
     {
       "key": "hipy_js_采集之王[合]",
@@ -37,6 +28,18 @@
       "order_num": 210,
       "ext": "https://gitee.com/xmbjmjk/omg/raw/master/lib/采集之王.js?type=url&params=https://gitee.com/xmbjmjk/omg/raw/master/lib/采集静态.json",
       "jar": "https://gitee.com/xmbjmjk/omg/raw/master/xmbjm.jar"
+    },
+    {
+      "key": "荐片",
+      "name": "❤️荐片┃讴",
+      "type": 3,
+      "api": "csp_JianPian",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://api2.rinhome.com",
+      "jar": "https://xn--dkw0c.v.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792"
     },
     {
       "key": "csp_Ikanbot",
@@ -1092,35 +1095,6 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0
-    },
-    {
-      "name": "1080解析",
-      "type": 1,
-      "url": "http://117.50.183.202:8036/?ip=111.55.12.236&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
     }
   ],
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
