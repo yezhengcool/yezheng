@@ -39,18 +39,6 @@
       "jar": "https://gitee.com/xmbjmjk/omg/raw/master/xmbjm.jar"
     },
     {
-      "key": "荐片",
-      "name": "❤️荐片┃讴",
-      "type": 3,
-      "api": "csp_JianPian",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://api2.rinhome.com",
-      "jar": "https://xn--dkw0c.v.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792"
-    },
-    {
       "key": "csp_Ikanbot",
       "name": "❤️Ikanbot(香)",
       "type": 3,
@@ -1104,6 +1092,35 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0
+    },
+    {
+      "name": "1080解析",
+      "type": 1,
+      "url": "http://117.50.183.202:8036/?ip=111.55.12.236&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
     }
   ],
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
