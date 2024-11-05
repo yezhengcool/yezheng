@@ -1,6 +1,6 @@
 {
   "spider": "https://gh.con.sh/https://raw.githubusercontent.com/shenjh2023/2024tv/main/fan.txt",
-  "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
       "key": "豆豆",
@@ -12,10 +12,19 @@
       "filterable": 0
     },
     {
-      "key": "T4-黑狐",
-      "name": "影视-黑狐(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/heihu.php"
+      "key": "玩偶",
+      "name": "👽玩偶哥哥┃4K弹幕",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.net/",
+        "danMu": "弹"
+      }
     },
     {
       "key": "hipy_js_采集之王[合]",
