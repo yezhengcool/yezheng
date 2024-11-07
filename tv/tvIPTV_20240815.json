@@ -577,14 +577,6 @@
       "filterable": 1
     },
     {
-      "key": "push_agent",
-      "name": "❌推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
       "key": "kxgav",
       "name": "🔞白嫖资源",
       "type": 0,
@@ -676,6 +668,14 @@
         "type": "rect",
         "ratio": 1.33
       }
+    },
+    {
+      "key": "push_agent",
+      "name": "❌推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 1,
+      "changeable": 0
     },
     {
       "api": "csp_fan",
@@ -874,6 +874,12 @@
     }
   ],
   "lives": [
+    {
+      "name": "IPV6",
+      "type": 0,
+      "url": "http://leafstudio.fh4u.org/IPTV.txt",
+      "playerType": 1
+    },
     {
       "name": "XIUTAN",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
