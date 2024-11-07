@@ -293,6 +293,10 @@ http://222.241.154.37:9901/tsfile/live/23020_1.m3u8
 http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
 #EXTINF:-1 tvg-id="湖南教育" tvg-name="湖南教育台" tvg-logo="https://live.fanmingming.com/tv/湖南教育.png" group-title="地方",湖南教育
 http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="地方",快乐垂钓
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8
+#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="地方",茶友频道
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/1.m3u8
 #EXTINF:-1 tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hubei/Hubei1.png" group-title="地方",湖北综合
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
 #EXTINF:-1 tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hubei/Hubei2.png" group-title="地方",湖北影视
@@ -333,6 +337,8 @@ https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="地方",浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="数字付费频道",嘉佳卡通
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000025964/1.m3u8
 #EXTINF:-1 tvg-id="黑龙江文体" tvg-name="黑龙江文体" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/heilongjiang/Heilongjiang2.png" group-title="地方",黑龙江文体
 http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 #EXTINF:-1 tvg-id="黑龙江都市" tvg-name="黑龙江都市" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/heilongjiang/Heilongjiang4.png" group-title="地方",黑龙江都市
@@ -367,20 +373,9 @@ http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳",凤凰香港
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-#EXTINF:-1 tvg-id="CHC1" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="数字付费频道",CHC影迷电影
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
-#EXTINF:-1 tvg-id="CHC2" tvg-name="CHC家庭影院" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC2.png" group-title="数字付费频道",CHC家庭影院
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
-#EXTINF:-1 tvg-id="CHC3" tvg-name="CHC动作电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC3.png" group-title="数字付费频道",CHC动作电影
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
-#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="数字付费频道",快乐垂钓
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8
-#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="数字付费频道",茶友频道
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/1.m3u8
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="数字付费频道",动漫秀场
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8
-#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="数字付费频道",嘉佳卡通
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000025964/1.m3u8
+
+
+
 #EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png" group-title="数字付费频道",哒啵赛事
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 #EXTINF:-1 tvg-id="哒啵电竞" tvg-name="哒啵电竞" tvg-logo="https://live.fanmingming.com/tv/哒啵电竞.png" group-title="数字付费频道",哒啵电竞
@@ -444,6 +439,23 @@ http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 #EXTINF:-1 tvg-id="newtv欢乐剧场" tvg-name="newtv欢乐剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV欢乐剧场.png" group-title="数字付费频道",欢乐剧场
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1 tvg-name="动作电影" tvg-logo="https://live.fanmingming.com/tv/动作电影.png" group-title="数字付费频道",动作电影
+http://[2409:8087:5e00:24::1e]:6060/000000001000/8103864434730665389/1.m3u8
+#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://live.fanmingming.com/tv/古装剧场.png" group-title="数字付费频道",古装剧场
+http://[2409:8087:5e00:24::1e]:6060/000000001000/6859053933687922163/1.m3u8
+#EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="https://live.fanmingming.com/tv/IHOT爱喜剧.png" group-title="数字付费频道",爱情喜剧
+http://[2409:8087:5e00:24::1e]:6060/000000001000/8393829412396288037/1.m3u8
+#EXTINF:-1 tvg-name="Newtv炫舞未来" tvg-logo="https://live.fanmingming.com/tv/Newtv炫舞未来".png" group-title="数字付费频道",Newtv炫舞未来"
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000000515/1.m3u8
+#EXTINF:-1 tvg-name="咪咕晴彩青少(足球)" group-title="数字付费频道",咪咕晴彩青少(足球)
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+#EXTINF:-1 tvg-name="咪咕晴彩篮球" group-title="数字付费频道",咪咕晴彩篮球
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270002/1.m3u8
+#EXTINF:-1 tvg-name="咪咕晴彩竞技" group-title="数字付费频道",咪咕晴彩竞技
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270005/1.m3u8
+#EXTINF:-1 tvg-name="足球频道" group-title="数字付费频道",足球频道
+https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8#https://nmglive.imfc.cn/5n1r1c/182396.m3u8
+http://113.57.20.158:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="华城付费频道",CHC影迷电影
 http://61.185.200.157:10000/rtp/239.112.205.206:5140
 http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
