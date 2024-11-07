@@ -26,7 +26,6 @@ CCTV-风云音乐,http://ds920.dsmynas.net:5555/rtp/226.0.2.220:9672#http://110.
 CCTV-风云音乐,http://124.231.215.176:8866/rtp/239.76.254.51:9000
 CCTV-世界地理,http://ds920.dsmynas.net:5555/rtp/226.0.2.222:9688#http://112.234.23.81:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
-CCTV-央视台球,http://www.lizhinas.top:8688/rtp/239.252.219.80:5140$江西cmc3+
 CCTV-央视台球,http://ds920.dsmynas.net:5555/rtp/226.0.2.216:9640#http://119.135.1.16:6699/live/1077/index.m3u8
 CCTV-高尔夫网球,http://[2409:8087:74d9:21::6]:80/270000001128/9900000094/index.m3u8#http://www.lizhinas.top:8688/rtp/239.252.219.95:5140$江西cmc3+
 CCTV-高尔夫网球,http://117.161.133.51:81/gitv_live/G_CCTV-GOLF-CQ/G_CCTV-GOLF-CQ.m3u8?p=GITV
