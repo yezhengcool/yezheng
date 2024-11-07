@@ -41,8 +41,7 @@ CCTV-女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
 CCTV-女性时尚,http://110.177.146.171:888/udp/239.1.1.89:8089
 CCTV-女性时尚,http://110.178.52.111:8085/udp/239.1.1.89:8089
 CCTV-电视指南,http://ds920.dsmynas.net:5555/rtp/226.0.2.218:9656
-CGTN,https://0472.org/hls/cgtn.m3u8
-CGTN,https://live.fanmingming.com/player/?vurl=https://0472.org/hls/cgtn.m3u8
+CGTN,https://0472.org/hls/cgtn.m3u8#https://live.fanmingming.com/player/?vurl=https://0472.org/hls/cgtn.m3u8#https://0472.org/hls/cgtn.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
