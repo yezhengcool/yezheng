@@ -345,13 +345,13 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:2
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011651/1.m3u8
 #EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://live.fanmingming.com/tv/华数4K.png" group-title="叶峥工作室测试频道",华数4K
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 group-title="QQ：253493781",group-title="叶峥工作室测试频道",凤凰古城 | 湖南 湘西州（直播）
+#EXTINF:-1 group-title="叶峥工作室测试频道",凤凰古城 | 湖南 湘西州（直播）
 https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8
-#EXTINF:-1 group-title="QQ：253493781",group-title="叶峥工作室测试频道",南迦巴瓦 ｜ 西藏 林芝（直播）
+#EXTINF:-1 group-title="叶峥工作室测试频道",南迦巴瓦 ｜ 西藏 林芝（直播）
 https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
-#EXTINF:-1 group-title="QQ：253493781",group-title="叶峥工作室测试频道",天山天池海西平台 ｜ 新疆 昌吉州（直播）
+#EXTINF:-1 group-title="叶峥工作室测试频道",天山天池海西平台 ｜ 新疆 昌吉州（直播）
 https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
-#EXTINF:-1 group-title="QQ：253493781",group-title="叶峥工作室测试频道",天山天池定海神针 ｜ 新疆 昌吉州（直播）
+#EXTINF:-1 group-title="叶峥工作室测试频道",天山天池定海神针 ｜ 新疆 昌吉州（直播）
 https://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="地方",金鹰卡通
 http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
