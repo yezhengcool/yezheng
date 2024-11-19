@@ -40,42 +40,27 @@ http://ds920.dsmynas.net:5555/rtp/226.0.2.223:9696
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央视",CCTV-第一剧场
 http://ds920.dsmynas.net:5555/rtp/226.0.2.221:9680
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视",CCTV-风云足球
-http://ds920.dsmynas.net:5555/rtp/226.0.2.225:9712
 http://111.61.236.247:9081/hls/58/index.m3u8
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="央视",CCTV-风云音乐
 http://ds920.dsmynas.net:5555/rtp/226.0.2.220:9672
 http://110.178.52.111:8085/udp/239.1.1.96:8096
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视",CCTV-世界地理
-http://ds920.dsmynas.net:5555/rtp/226.0.2.222:9688
 http://112.234.23.81:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
-http://111.61.236.247:9081/hls/62/index.m3u8
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视",CCTV-央视台球
-http://ds920.dsmynas.net:5555/rtp/226.0.2.216:9640
 http://119.135.1.16:6699/live/1077/index.m3u8
-http://117.161.133.51:81/gitv_live/G_CCTV-GOLF-CQ/G_CCTV-GOLF-CQ.m3u8?p=GITV
 #EXTINF:-1 tvg-name="央视高网" tvg-logo="https://live.fanmingming.com/tv/央视高网.png" group-title="央视",CCTV-高尔夫网球
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000094/index.m3u8
-http://www.lizhinas.top:8688/rtp/239.252.219.95:5140$江西cmc3+
-http://117.161.133.51:81/gitv_live/G_CCTV-GOLF-CQ/G_CCTV-GOLF-CQ.m3u8?p=GITV
 #EXTINF:-1 tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="央视",CCTV-文化精品
 http://ds920.dsmynas.net:5555/rtp/226.0.2.219:9664
 http://110.177.146.171:888/udp/239.1.1.91:8091
 http://222.169.41.210:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 https://jump.taoiptv.cn/iptv1.php?id=100230&num=1&sign=fk3aks
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视",CCTV-怀旧剧场
-http://ds920.dsmynas.net:5555/rtp/226.0.2.224:9704
-http://112.234.23.81:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 http://111.61.236.247:9081/hls/67/index.m3u8
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视",CCTV-风云剧场
-http://ds920.dsmynas.net:5555/rtp/226.0.2.227:9728
 http://110.241.188.219:808/hls/57/index.m3u8
-http://110.177.146.171:888/udp/239.1.1.93:8093
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央视",CCTV-女性时尚
-http://ds920.dsmynas.net:5555/rtp/226.0.2.226:9720
-http://110.177.146.171:888/udp/239.1.1.89:8089
 http://111.61.236.247:9081/hls/59/index.m3u8
-http://110.177.146.171:888/udp/239.1.1.89:8089
-http://110.178.52.111:8085/udp/239.1.1.89:8089
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视",CCTV-电视指南
 http://ds920.dsmynas.net:5555/rtp/226.0.2.218:9656
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视",CETV-1
