@@ -1971,6 +1971,8 @@ TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 星空卫视,http://117.114.153.26:8180/TV00000000000000000071@HHZT
 香港有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+星空卫视,http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.156:2193$四川cmc1+
+CHEV,http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.157:2194$四川cmc1+
 
 数字付费频道,#genre#
 游戏风云,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8
