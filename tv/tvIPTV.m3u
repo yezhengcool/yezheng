@@ -620,24 +620,22 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270005/1.m3u8
 https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8#https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 http://113.57.20.158:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="华城付费频道",CHC影迷电影
-http://61.185.200.157:10000/rtp/239.112.205.206:5140
-http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
-http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
-http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
-https://stream1.freetv.fun/chcying-mi-dian-ying-1.m3u8
-https://stream1.freetv.fun/chcgao-qing-dian-ying-10.m3u8
-https://stream1.freetv.fun/chcying-mi-dian-ying-6.m3u8
-http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
-https://stream1.freetv.fun/chcying-mi-dian-ying-1.m3u8
-https://stream1.freetv.fun/chcgao-qing-dian-ying-10.m3u8
-https://stream1.freetv.fun/chcying-mi-dian-ying-6.m3u8
-http://61.185.200.157:10000/rtp/239.112.205.206:5140
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
+http://zjc.ybitsm.com:7777/udp/239.93.52.5:5140
+http://61.157.179.236:7777/udp/239.93.52.5:5140
+http://218.59.176.78:8999/udp/239.253.232.154:8000
+http://h.moying.work:8999/udp/239.253.232.154:8000
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="华城付费频道",CHC家庭影院
-http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
-https://stream1.freetv.fun/chcjia-ting-ying-yuan-20.ctv
-https://stream1.freetv.fun/chcjia-ting-ying-yuan-6.ctv
-https://stream1.freetv.fun/chcjia-ting-ying-yuan-10.m3u8
-http://iptvcyp.top:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&a
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
+http://218.59.176.78:8999/udp/239.253.232.152:8000
+http://106.86.8.21:8888/udp/235.254.198.246:7980
+http://119.86.72.58:4022/udp/235.254.198.246:7980
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="华城付费频道",CHC动作电影
-http://58.48.5.186:1111/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
+CHC动作电影,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
+http://220.176.218.7:8888/udp/239.252.219.85:5140
+http://www.weihuaz.icu:8888/udp/239.252.219.85:5140
+http://218.59.176.78:8999/udp/239.253.232.153:8000
+http://h.moying.work:8999/udp/239.253.232.153:8000
+http://tv.4000689877.com:4000/udp/239.253.232.153:8000
+http://222.134.240.210:4000/udp/239.253.232.153:8000
+
