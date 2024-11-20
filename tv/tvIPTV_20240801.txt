@@ -36,7 +36,7 @@ CCTV-怀旧剧场,http://116.171.105.134:5555/udp/239.254.21.121:7000$联通组�
 CCTV-风云剧场,http://ds920.dsmynas.net:5555/rtp/226.0.2.227:9728
 CCTV-风云剧场,http://220.176.218.7:8888/udp/239.252.219.89:5140#http://www.weihuaz.icu:8888/udp/239.252.219.89:5140#http://zjc.ybitsm.com:7777/udp/239.93.19.156:5140#http://ds920.dsmynas.net:5555/rtp/226.0.2.227:9728
 CCTV-女性时尚,http://ds920.dsmynas.net:5555/rtp/226.0.2.226:9720#http://111.61.236.247:9081/hls/59/index.m3u8
-CCTV-女性时尚,http://220.176.218.7:8888/udp/239.252.219.94:5140$电信组播#http://www.weihuaz.icu:8888/udp/239.252.219.94:5140$电信组播#http://rou.xyparty.com:8867/udp/224.30.30.71:8090$联通组播http://ds920.dsmynas.net:5555/rtp/226.0.2.226:9720#http://111.61.236.247:9081/hls/59/index.m3u8
+CCTV-女性时尚,http://220.176.218.7:8888/udp/239.252.219.94:5140$电信组播#http://www.weihuaz.icu:8888/udp/239.252.219.94:5140$电信组播#http://rou.xyparty.com:8867/udp/224.30.30.71:8090$联通组播#http://ds920.dsmynas.net:5555/rtp/226.0.2.226:9720#http://111.61.236.247:9081/hls/59/index.m3u8
 CCTV-电视指南,http://ds920.dsmynas.net:5555/rtp/226.0.2.218:9656
 CGTN,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000352/index.m3u8?IASHttpSessionId=$移动IPTV#https://english-liveali.cgtn.com/hls/yypdyyctzb/playlist.m3u8#https://english-liveali.cgtn.com/hls/yypdyyctzb/yypdyyctzbcd/playlist.m3u8#https://0472.org/hls/cgtn.m3u8
 CGTN纪录,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000353/index.m3u8?IASHttpSessionId=#https://english-liveali.cgtn.com/hls/yypdjlctzb/yypdjlctzbcd/playlist.m3u8#https://english-liveali.cgtn.com/hls/yypdjlctzb/playlist.m3u8#https://0472.org/hls/cgtnd.m3u8
