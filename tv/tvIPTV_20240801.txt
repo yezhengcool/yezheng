@@ -1902,12 +1902,12 @@ BRTV-KAKU少儿,http://[2409:8087:74d9:21::6]:80/270000001128/9900000040/index.m
 
 河北,#genre#
 河北卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-河北经济生活,https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1723796598&k=60b7be299453a3a36e08d003df0b200c
-河北农民频道,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1723796708&k=3dd49c3562ebaed577c9f19b7c742edd
-河北都市,https://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=1723798789&k=7927b8b71332159e7ed9db2afec9a7d2
-河北影视剧,https://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=1723796783&k=5628842557f436a595d79212ecc5bd78
-河北少儿科教,https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1723796830&k=340935949fd3229173dd8f8b83d7e957
-河北公共,https://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=1723796884&k=280d3ad76d6bb887cebce164c8669c66
+河北经济生活,http://106.116.2.124:8890/udp/239.254.200.18:6000#http://www.bg3nit.top:8888/udp/239.253.92.171:6001#http://101.31.56.77:4022/udp/239.253.92.171:6001
+河北农民,http://106.116.2.124:8890/udp/239.254.200.23:6000#http://www.bg3nit.top:8888/udp/239.253.92.176:6006#http://101.31.56.77:4022/udp/239.253.92.176:6006#http://120.6.7.200:4022/udp/239.253.92.176:6006
+河北都市,http://106.116.2.124:8890/udp/239.254.200.19:6000#http://www.bg3nit.top:8888/udp/239.253.92.172:6002#http://101.31.56.77:4022/udp/239.253.92.172:6002#http://cdlpgs.cn:16000/udp/239.253.92.172:6002#http://121.29.138.245:4022/udp/239.253.92.172:6002
+河北影视剧,http://106.116.2.124:8890/udp/239.254.200.20:6000$电信组播#http://www.bg3nit.top:8888/udp/239.253.92.173:6003$联通组播#http://101.31.56.77:4022/udp/239.253.92.173:6003$联通组播#http://121.29.138.245:4022/udp/239.253.92.173:6003$联通组播
+河北少儿科教,http://106.116.2.124:8890/udp/239.254.200.21:6000$电信组播#http://www.bg3nit.top:8888/udp/239.253.92.174:6004$联通组播#http://101.31.56.77:4022/udp/239.253.92.174:6004$联通组播
+河北文旅公共,http://106.116.2.124:8890/udp/239.254.200.22:6000$电信组播#http://www.bg3nit.top:8888/udp/239.253.92.175:6005$联通组播#http://101.31.56.77:4022/udp/239.253.92.175:6005$联通组播
 
 甘肃,#genre#
 甘肃卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
