@@ -1952,8 +1952,16 @@ BRTV-KAKU少儿,http://[2409:8087:74d9:21::6]:80/270000001128/9900000040/index.m
 乌兰察布新闻综合,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
 
 港澳,#genre#
-凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8#http://103.95.24.37:880/fhws.m3u8
+香港卫视,https://stream1.freetv.fun/c751876ae5ceaa0d82b5cf2badc152342aa92a4b45bf504d12ee45966b2fc644.ctv
+香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
+凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8#http://60.164.128.167:8029/rtp/239.255.30.50:8231#http://www.lebaobei.top:6868/rtp/239.255.30.50:8231#http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.162:2192$四川cmc1+
+凤凰资讯,http://60.164.128.167:8029/rtp/239.255.30.70:8231#http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.118:2191$四川cmc1+
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-15.ctv
+凤凰资讯,https://stream1.freetv.fun/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8#http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8#http://103.95.24.37:880/fhzx.m3u8
+凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8#http://itms.xznet.org:41097/rtp/239.254.201.1:5214$河北cmc1+
+凤凰香港,http://60.164.128.167:8029/rtp/239.255.30.123:8231
+凤凰香港,https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8#http://103.95.24.37:880/fhxgt.m3u8
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8#https://pulltv1.wanfudaluye.com/live/tv1.m3u8
