@@ -1865,22 +1865,20 @@ BRTV-KAKU少儿,http://[2409:8087:74d9:21::6]:80/270000001128/9900000040/index.m
 
 湖北,#genre#
 湖北卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
-湖北综合,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
-湖北影视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI
-湖北教育,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc
-湖北生活,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072c62e405/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKJPodw5BcDirSOw7egztI5bUvJjqPzSNAhrA37GrbRBIAjGQpzP0QmgsmuHnQyd2c
-湖北公共,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpyhD%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI
-湖北经视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807203543e3/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLVCQ3pDe4nBySab%2B3xPL123aTSCRugzF2ABe36IIJw2evZbYdWUo0ffUw53bflDgU
-湖北垄上,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072463c333/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNL%2Be1h4FfA5QqwJ7IPOz3p2qIS7djSxm17Htd%2FckZkm%2FVqsKHEJFJt26ju9iibzMEo
+湖北综合,http://58.52.242.3:8888/udp/239.69.1.42:9892#http://www.xk8.top:8001/udp/239.254.103.177:9142
+湖北影视,http://www.xk8.top:8001/udp/239.254.103.182:9172#http://ht.ikhs.cn:8880/udp/239.253.157.182:9172#http://swtyc.f3322.org:8880/udp/239.253.157.182:9172
+湖北教育,http://www.xk8.top:8001/udp/239.69.1.206:10878#http://nasyc.cn:4022/udp/239.69.1.206:10878#http://59.174.98.88:8880/udp/239.69.1.206:10878#http://27.28.224.69:8989/udp/239.69.1.206:10878
+湖北生活,http://www.xk8.top:8001/udp/239.254.103.181:9166#http://ht.ikhs.cn:8880/udp/239.253.157.181:9166#http://swtyc.f3322.org:8880/udp/239.253.157.181:9166#http://15827885062.cn:8989/udp/239.253.158.181:9166#http://58.52.242.3:8888/udp/239.254.98.181:9166#http://27.24.224.125:8888/udp/239.254.98.181:9166#http://27.24.224.108:8888/udp/239.254.98.181:9166
+湖北公共,http://58.50.156.217:4022/udp/239.69.1.40:9880#http://58.52.242.3:8888/udp/239.69.1.40:9880#http://www.xk8.top:8001/udp/239.69.1.40:9880
+湖北经视,http://www.xk8.top:8001/udp/239.69.1.41:9886#http://nasyc.cn:4022/udp/239.69.1.41:9886#http://59.174.98.88:8880/udp/239.69.1.41:9886#http://27.28.224.69:8989/udp/239.69.1.41:9886#http://58.48.201.60:12312/udp/239.69.1.41:9886#http://www.xk8.top:8001/udp/239.254.103.178:9148
+湖北垄上,http://58.52.242.3:8888/udp/239.69.1.43:9898#http://www.xk8.top:8001/udp/239.69.1.43:9898#http://nasyc.cn:4022/udp/239.69.1.43:9898#http://59.174.98.88:8880/udp/239.69.1.43:9898#http://27.28.224.69:8989/udp/239.69.1.43:9898#http://www.xk8.top:8001/udp/239.254.103.184:9184
 赤壁综合,https://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1735660799-0-0-1751de0a4678e4571fe2af86220e2a2b&extra_key=
 荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
 崇阳综合,http://61.184.176.248:10500/live/live.m3u8
-武汉新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
-武汉电视剧,http://58.48.37.158:1111/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-武汉电视剧,http://59.173.243.210:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
+武汉电视剧,http://www.xk8.top:8001/udp/239.254.103.229:9454#http://swtyc.f3322.org:8880/udp/239.253.157.229:9454#http://ht.ikhs.cn:8880/udp/239.253.157.229:9454
 武汉科技生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
-武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
-武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
+武汉文体频道,http://stream.appwuhan.com/5tzb/sd/live.m3u8
 武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
 
 湖南,#genre#
