@@ -323,7 +323,6 @@ http://122.189.103.194:8010/udp/228.0.0.124:6108
 http://www.xk8.top:8001/udp/239.69.1.41:9886
 http://nasyc.cn:4022/udp/239.69.1.41:9886
 #EXTINF:-1 tvg-id="湖北垄上" tvg-name="湖北垄上" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Hubei7.png" group-title="地方",湖北垄上
-http://58.52.242.3:8888/udp/239.69.1.43:9898
 http://www.xk8.top:8001/udp/239.69.1.43:9898
 #EXTINF:-1 tvg-id="GS01" tvg-name="甘肃经济" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gansu/Gansu2.png" group-title="地方",甘肃经济
 http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000326/index.m3u8?
