@@ -407,7 +407,7 @@ http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="港澳",星空卫视
 http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.156:2193
 #EXTINF:-1 tvg-name="Channel[V]" tvg-logo="https://live.fanmingming.com/tv/channelv.png" group-title="港澳",Channel[V]
-http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.157:2194$四川cmc1+
+http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.157:2194
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="数字付费频道",金鹰卡通
 http://[2409:8087:3c02:21::1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002027/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="数字付费频道",金鹰纪实
