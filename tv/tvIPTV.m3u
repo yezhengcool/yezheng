@@ -314,6 +314,8 @@ http://58.41.27.144:18888/udp/239.45.3.209:5140
 http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226620/index.m3u8
 #EXTINF:-1 group-title="地方" tvg-id="崇明电视台" tvg-logo="https://cs.xinpianchang.com/uploadfile/article/2021/03/31/606420a9c3229.jpeg",崇明电视台
 https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
+#EXTINF:-1 group-title="地方" tvg-id="上海金山电视台" tvg-logo="https://live.fanmingming.com/tv/上海金山.png",上海金山电视台
+上海金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
 #EXTINF:-1 group-title="地方" tvg-id="上海嘉定电视台" tvg-logo="https://iknow-pic.cdn.bcebos.com/fd039245d688d43f7a0776a37d1ed21b0ef43b31?x-bce-process=image%2Fresize%2Cm_lfit%2Cw_600%2Ch_800%2Climit_1%2Fquality%2Cq_85%2Fformat%2Cf_auto",上海嘉定电视台
 https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 #EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://live.fanmingming.com/tv/上海外语.png" group-title="地方",上海外语
