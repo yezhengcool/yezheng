@@ -237,7 +237,7 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/ind
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="湖北",湖北卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
-#EXTINF:-1 tvg-name="赤壁综合" tvg-logo="https://bkimg.cdn.bcebos.com/pic/f31fbe096b63f6246b6071ad3614fcf81a4c510f0546" group-title="叶峥工作室测试频道",赤壁综合
+#EXTINF:-1 tvg-name="赤壁综合" tvg-logo="https://bkimg.cdn.bcebos.com/pic/f31fbe096b63f6246b6071ad3614fcf81a4c510f0546" group-title="f峥工作室测试频道",赤壁综合
 https://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1735660799-0-0-1751de0a4678e4571fe2af86220e2a2b&extra_key=
 #EXTINF:-1 tvg-name="湖北综合" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hubei/Hubei1.png" group-title="湖北",湖北综合
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
