@@ -311,7 +311,7 @@ http://swtyc.f3322.org:8880/udp/239.253.157.229:9454
 http://stream.appwuhan.com/3tzb/sd/live.m3u8
 #EXTINF:-1 tvg-id="武汉文体频道" tvg-name="武汉文体频道" tvg-logo="" group-title="湖北",武汉文体频道
 http://stream.appwuhan.com/5tzb/sd/live.m3u8
-#EXTINF:-1 tvg-name="武汉教育" tvg-id="武汉教育" tvg-logo="" group-title="地方频道", 武汉教育
+#EXTINF:-1 tvg-name="武汉教育" tvg-id="武汉教育" tvg-logo="" group-title="湖北", 武汉教育
 http://58.48.37.158:1111/tsfile/live/1003_1.m3u8
 http://stream.appwuhan.com/jyzb/sd/live.m3u8
 #EXTINF:-1 tvg-id="GS01" tvg-name="甘肃经济" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gansu/Gansu2.png" group-title="甘肃",甘肃经济
