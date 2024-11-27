@@ -318,7 +318,7 @@ http://swtyc.f3322.org:8880/udp/239.253.157.229:9454
 http://stream.appwuhan.com/3tzb/sd/live.m3u8
 #EXTINF:-1 tvg-id="武汉文体" tvg-name="武汉文体" tvg-logo="http://tiebapic.baidu.com/forum/w%3D580/sign=5676e7a0941373f0f53f6f97940e4b8b/42f6b651f8198618b14f905f0fed2e7389d4e6cb.jpg?tbpicau=2024-12-08-05_036271e7e5e9fe13e7e14a7eec2a734f" group-title="湖北",武汉文体
 http://stream.appwuhan.com/5tzb/sd/live.m3u8
-#EXTINF:-1 tvg-name="武汉教育" tvg-id="武汉教育" tvg-logo="" group-title="湖北", 武汉教育
+#EXTINF:-1 tvg-name="武汉教育" tvg-id="武汉教育" tvg-logo="https://gimg3.baidu.com/topone/src=https%3A%2F%2Fbkimg.cdn.bcebos.com%2Fsmart%2Fa044ad345982b2b7d0a227b81ae1dcef76094b362d31-bkimg-process%2Cv_1%2Crw_1%2Crh_1%2Cmaxl_800%2Cpad_1%3Fx-bce-process%3Dimage%2Fresize%2Cm_pad%2Cw_348%2Ch_348%2Ccolor_ffffff&refer=http%3A%2F%2Fwww.baidu.com&app=2011&size=f200,200&n=0&g=0n&er=404&q=75&fmt=auto&maxorilen2heic=2000000?sec=1732813200&t=472f4ace3d5eb0a20fed505aeee30972" group-title="湖北", 武汉教育
 http://58.48.37.158:1111/tsfile/live/1003_1.m3u8
 http://stream.appwuhan.com/jyzb/sd/live.m3u8
 #EXTINF:-1 tvg-id="GS01" tvg-name="甘肃经济" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gansu/Gansu2.png" group-title="甘肃",甘肃经济
