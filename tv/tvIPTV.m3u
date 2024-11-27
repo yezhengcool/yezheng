@@ -305,9 +305,9 @@ http://nasyc.cn:4022/udp/239.69.1.41:9886
 http://www.xk8.top:8001/udp/239.69.1.43:9898
 #EXTINF:-1 tvg-id="赤壁综合" tvg-name="赤壁综合" tvg-logo="https://bkimg.cdn.bcebos.com/pic/f31fbe096b63f6246b6071ad3614fcf81a4c510f0546" group-title="湖北",赤壁综合
 https://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1735660799-0-0-1751de0a4678e4571fe2af86220e2a2b&extra_key=
-#EXTINF:-1 tvg-id="荆门新闻综合" tvg-name="荆门新闻综合" tvg-logo="" group-title="湖北",荆门新闻综合
+#EXTINF:-1 tvg-id="荆门新闻综合" tvg-name="荆门新闻综合" tvg-logo="https://tiebapic.baidu.com/forum/pic/item/592e09f790529822053c6fe291ca7bcb0a46d495.jpg?tbpicau=2024-12-08-05_8342b0004dbf5f7fc57720605ee143eb" group-title="湖北",荆门新闻综合
 http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
-#EXTINF:-1 tvg-id="崇阳综合" tvg-name="崇阳综合" tvg-logo="" group-title="湖北",崇阳综合
+#EXTINF:-1 tvg-id="崇阳综合" tvg-name="崇阳综合" tvg-logo="https://img0.baidu.com/it/u=3741297634,814003454&fm=253&fmt=auto&app=138&f=JPEG?w=470&h=470" group-title="湖北",崇阳综合
 http://61.184.176.248:10500/live/live.m3u8
 #EXTINF:-1 tvg-id="武汉综合" tvg-name="武汉综合" tvg-logo="" group-title="湖北",武汉综合
 http://stream.appwuhan.com/1tzb/sd/live.m3u8
