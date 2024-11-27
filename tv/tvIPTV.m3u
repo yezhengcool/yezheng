@@ -309,14 +309,14 @@ https://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1735660799-0-0-1
 http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
 #EXTINF:-1 tvg-id="崇阳综合" tvg-name="崇阳综合" tvg-logo="https://img0.baidu.com/it/u=3741297634,814003454&fm=253&fmt=auto&app=138&f=JPEG?w=470&h=470" group-title="湖北",崇阳综合
 http://61.184.176.248:10500/live/live.m3u8
-#EXTINF:-1 tvg-id="武汉综合" tvg-name="武汉综合" tvg-logo="" group-title="湖北",武汉综合
+#EXTINF:-1 tvg-id="武汉综合" tvg-name="武汉综合" tvg-logo="http://tiebapic.baidu.com/forum/w%3D580/sign=9b254b027c01213fcf334ed464e636f8/11139f25bc315c60229d1434c8b1cb134b5477ca.jpg?tbpicau=2024-12-08-05_813deda7f53792a72e293ba83d53cce0" group-title="湖北",武汉综合
 http://stream.appwuhan.com/1tzb/sd/live.m3u8
-#EXTINF:-1 tvg-id="武汉电视剧" tvg-name="武汉电视剧" tvg-logo="" group-title="湖北",武汉电视剧
+#EXTINF:-1 tvg-id="武汉电视剧" tvg-name="武汉电视剧" tvg-logo="http://tiebapic.baidu.com/forum/w%3D580/sign=e72ed7fdb8faaf5184e381b7bc5594ed/71e71fd8bc3eb1351acfc860e31ea8d3ff1f44ca.jpg?tbpicau=2024-12-08-05_861507569fdf086a1c47b170f4f14387" group-title="湖北",武汉电视剧
 http://www.xk8.top:8001/udp/239.254.103.229:9454
 http://swtyc.f3322.org:8880/udp/239.253.157.229:9454
-#EXTINF:-1 tvg-id="武汉生活" tvg-name="武汉生活" tvg-logo="" group-title="湖北",武汉生活
+#EXTINF:-1 tvg-id="武汉生活" tvg-name="武汉生活" tvg-logo="http://tiebapic.baidu.com/forum/w%3D580/sign=a412283bb203918fd7d13dc2613c264b/fdde8144ebf81a4c963a9312922a6059272da6cb.jpg?tbpicau=2024-12-08-05_cd792245dc66e4e69333d00050826b1f" group-title="湖北",武汉科技生活
 http://stream.appwuhan.com/3tzb/sd/live.m3u8
-#EXTINF:-1 tvg-id="武汉文体频道" tvg-name="武汉文体频道" tvg-logo="" group-title="湖北",武汉文体频道
+#EXTINF:-1 tvg-id="武汉文体" tvg-name="武汉文体" tvg-logo="http://tiebapic.baidu.com/forum/w%3D580/sign=5676e7a0941373f0f53f6f97940e4b8b/42f6b651f8198618b14f905f0fed2e7389d4e6cb.jpg?tbpicau=2024-12-08-05_036271e7e5e9fe13e7e14a7eec2a734f" group-title="湖北",武汉文体
 http://stream.appwuhan.com/5tzb/sd/live.m3u8
 #EXTINF:-1 tvg-name="武汉教育" tvg-id="武汉教育" tvg-logo="" group-title="湖北", 武汉教育
 http://58.48.37.158:1111/tsfile/live/1003_1.m3u8
