@@ -204,6 +204,8 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8$
 http://[2409:8087:3c02:21::1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000332/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="北京",BRTV-KAKU少儿
 http://[2409:8087:3c02:21::1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000661/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-id="北京IPTV4K" tvg-name="北京IPTV4K" tvg-logo="https://epg.112114.xyz/logo/IPTV4K.png" group-title="北京",北京IPTV 4K超清
+http://39.134.134.43/000000000001/PLTV/88888888/224/3221280545/index.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-name="上海新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="上海",上海新闻
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="上海崇明电视台" tvg-logo="https://epg.112114.xyz/logo/崇明电视台.png" group-title="上海",上海崇明电视台
@@ -226,7 +228,7 @@ http://[2409:8087:3c02:21::1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANN
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="上海",劲爆体育
 http://[2409:8087:3c02:21::1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002026/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://live.fanmingming.com/tv/乐游频道.png" group-title="上海",乐游频道
+#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="上海",乐游频道
 http://[2409:8087:3c02:21::1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002016/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="上海",欢笑剧场
 http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226203/index.m3u8
@@ -242,7 +244,7 @@ http://[2409:8087:3c02:21::1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANN
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="上海",东方财经
 http://[2409:8087:3c02:21::1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002025/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png" group-title="上海",第一财经
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="上海",第一财经
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="湖南",金鹰卡通
 http://[2409:8087:74d9:21::6]/270000001128/9900000039/index.m3u8
@@ -296,7 +298,22 @@ http://nasyc.cn:4022/udp/239.69.1.41:9886
 http://www.xk8.top:8001/udp/239.69.1.43:9898
 #EXTINF:-1 tvg-id="赤壁综合" tvg-name="赤壁综合" tvg-logo="https://bkimg.cdn.bcebos.com/pic/f31fbe096b63f6246b6071ad3614fcf81a4c510f0546" group-title="叶峥工作室测试频道",赤壁综合
 https://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1735660799-0-0-1751de0a4678e4571fe2af86220e2a2b&extra_key=
-
+#EXTINF:-1 tvg-id="荆门新闻综合" tvg-name="荆门新闻综合" tvg-logo="" group-title="湖北",荆门新闻综合
+http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
+#EXTINF:-1 tvg-id="崇阳综合" tvg-name="崇阳综合" tvg-logo="" group-title="湖北",崇阳综合
+http://61.184.176.248:10500/live/live.m3u8
+#EXTINF:-1 tvg-id="武汉综合" tvg-name="武汉综合" tvg-logo="" group-title="湖北",武汉综合
+http://stream.appwuhan.com/1tzb/sd/live.m3u8
+#EXTINF:-1 tvg-id="武汉电视剧" tvg-name="武汉电视剧" tvg-logo="" group-title="湖北",武汉电视剧
+http://www.xk8.top:8001/udp/239.254.103.229:9454
+http://swtyc.f3322.org:8880/udp/239.253.157.229:9454
+#EXTINF:-1 tvg-id="武汉生活" tvg-name="武汉生活" tvg-logo="" group-title="湖北",武汉生活
+http://stream.appwuhan.com/3tzb/sd/live.m3u8
+#EXTINF:-1 tvg-id="武汉文体频道" tvg-name="武汉文体频道" tvg-logo="" group-title="湖北",武汉文体频道
+http://stream.appwuhan.com/5tzb/sd/live.m3u8
+#EXTINF:-1 tvg-name="武汉教育" tvg-id="武汉教育" tvg-logo="" group-title="地方频道", 武汉教育
+http://58.48.37.158:1111/tsfile/live/1003_1.m3u8
+http://stream.appwuhan.com/jyzb/sd/live.m3u8
 #EXTINF:-1 tvg-id="GS01" tvg-name="甘肃经济" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gansu/Gansu2.png" group-title="甘肃",甘肃经济
 http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000326/index.m3u8?
 #EXTINF:-1 tvg-id="GS02" tvg-name="甘肃公共应急" tvg-logo="https://upload.112114.xyz/logo/%E7%94%98%E8%82%83%E5%85%AC%E5%85%B1%E5%BA%94%E6%80%A5.png" group-title="甘肃",甘肃公共
