@@ -295,7 +295,7 @@ http://www.xk8.top:8001/udp/239.69.1.206:10878
 #EXTINF:-1 tvg-id="湖北生活" tvg-name="湖北生活" tvg-logo="https://epg.112114.xyz/logo/湖北影视.png" group-title="湖北",湖北生活
 http://58.50.156.217:4022/udp/239.69.1.205:10872
 http://27.28.224.70:8989/udp/239.69.1.205:10872
-#EXTINF:-1 tvg-id="湖北公共" tvg-name="湖北公共" tvg-logo="https://epg.112114.xyz/logo/湖北公共.png" group-title="湖北",湖北公共
+#EXTINF:-1 tvg-id="湖北公共" tvg-name="湖北公共" tvg-logo="https://epg.112114.xyz/logo/湖北公共.png" group-title="湖北",湖北公共·新闻
 http://27.24.224.92:8888/udp/239.69.1.40:9880
 http://122.189.103.194:8010/udp/228.0.0.124:6108
 #EXTINF:-1 tvg-id="湖北经视" tvg-name="湖北经视" tvg-logo="https://epg.112114.xyz/logo/湖北经视.png" group-title="湖北",湖北经视
