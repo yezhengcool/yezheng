@@ -206,11 +206,11 @@ http://[2409:8087:3c02:21::1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANN
 http://[2409:8087:3c02:21::1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000661/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="上海新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="上海",上海新闻
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="上海崇明电视台" tvg-logo="https://live.fanmingming.com/tv/上海崇明电视台.png" group-title="上海",上海崇明电视台
+#EXTINF:-1 tvg-name="上海崇明电视台" tvg-logo="https://epg.112114.xyz/logo/崇明电视台.png" group-title="上海",上海崇明电视台
 https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
-#EXTINF:-1 tvg-name="上海金山电视台" tvg-logo="https://live.fanmingming.com/tv/上海金山电视台.png" group-title="上海",上海金山电视台
+#EXTINF:-1 tvg-name="上海金山电视台" tvg-logo="https://epg.112114.xyz/logo/金山电视台.png" group-title="上海",上海金山电视台
 https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
-#EXTINF:-1 tvg-name="上海嘉定电视台" tvg-logo="https://live.fanmingming.com/tv/上海嘉定电视台.png" group-title="上海",上海嘉定电视台
+#EXTINF:-1 tvg-name="上海嘉定电视台" tvg-logo="https://epg.112114.xyz/logo/嘉定电视台.png" group-title="上海",上海嘉定电视台
 https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="上海",五星体育
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
@@ -294,6 +294,9 @@ http://www.xk8.top:8001/udp/239.69.1.41:9886
 http://nasyc.cn:4022/udp/239.69.1.41:9886
 #EXTINF:-1 tvg-id="湖北垄上" tvg-name="湖北垄上" tvg-logo="https://epg.112114.xyz/logo/湖北垄上.png" group-title="湖北",湖北垄上
 http://www.xk8.top:8001/udp/239.69.1.43:9898
+#EXTINF:-1 tvg-id="赤壁综合" tvg-name="赤壁综合" tvg-logo="https://bkimg.cdn.bcebos.com/pic/f31fbe096b63f6246b6071ad3614fcf81a4c510f0546" group-title="叶峥工作室测试频道",赤壁综合
+https://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1735660799-0-0-1751de0a4678e4571fe2af86220e2a2b&extra_key=
+
 #EXTINF:-1 tvg-id="GS01" tvg-name="甘肃经济" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gansu/Gansu2.png" group-title="甘肃",甘肃经济
 http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000326/index.m3u8?
 #EXTINF:-1 tvg-id="GS02" tvg-name="甘肃公共应急" tvg-logo="https://upload.112114.xyz/logo/%E7%94%98%E8%82%83%E5%85%AC%E5%85%B1%E5%BA%94%E6%80%A5.png" group-title="甘肃",甘肃公共
