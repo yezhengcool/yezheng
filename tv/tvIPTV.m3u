@@ -395,15 +395,15 @@ http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHAN
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000340/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="山东",山东教育
 http://[2409:8087:3c02:21::1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000331/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="济南新闻综合" tvg-logo="https://live.fanmingming.com/tv/济南新闻综合.png" group-title="山东",济南新闻综合
+#EXTINF:-1 tvg-name="济南新闻综合" tvg-logo="https://upload.112114.xyz/logo/济南新闻综合.png" group-title="山东",济南新闻综合
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00004000/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="潍坊新闻综合" tvg-logo="https://live.fanmingming.com/tv/潍坊新闻综合.png" group-title="山东",潍坊新闻综合
+#EXTINF:-1 tvg-name="潍坊新闻综合" tvg-logo="https://upload.112114.xyz/logo/潍坊新闻综合.png" group-title="山东",潍坊新闻综合
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000215/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="烟台新闻综合" tvg-logo="https://live.fanmingming.com/tv/烟台新闻综合.png" group-title="山东",烟台新闻综合
+#EXTINF:-1 tvg-name="烟台新闻综合" tvg-logo="" group-title="山东",烟台新闻综合
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000280/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="烟台经济科技" tvg-logo="https://live.fanmingming.com/tv/烟台经济科技.png" group-title="山东",烟台经济科技
+#EXTINF:-1 tvg-name="烟台经济科技" tvg-logo="" group-title="山东",烟台经济科技
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000282/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="青州综合" tvg-logo="https://live.fanmingming.com/tv/青州综合.png" group-title="山东",青州综合
+#EXTINF:-1 tvg-name="青州综合" tvg-logo="" group-title="山东",青州综合
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001042/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="河北经济" tvg-logo="https://upload.112114.xyz/logo/河北经济生活.png" group-title="河北",河北经济
 http://106.116.2.124:8890/udp/239.254.200.18:6000
