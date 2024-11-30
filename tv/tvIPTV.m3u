@@ -204,18 +204,18 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8$
 http://[2409:8087:3c02:21::1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000332/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="北京",BRTV-KAKU少儿
 http://[2409:8087:3c02:21::1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000661/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-id="北京IPTV4K" tvg-name="北京IPTV4K" tvg-logo="https://epg.112114.xyz/logo/IPTV4K.png" group-title="北京",北京IPTV 4K超清
+#EXTINF:-1 tvg-id="北京IPTV4K" tvg-name="北京IPTV4K" tvg-logo="https://upload.112114.xyz/logo/IPTV4K.png" group-title="北京",北京IPTV 4K超清
 http://221.219.97.2:4022/udp/239.3.1.249:8001
 http://1.203.76.47:7788/udp/225.1.8.211:8002
 http://1.203.76.47:7788/udp/225.1.0.205:1025
 http://39.134.134.43/000000000001/PLTV/88888888/224/3221280545/index.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-name="上海新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="上海",上海新闻
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="上海崇明电视台" tvg-logo="https://epg.112114.xyz/logo/崇明电视台.png" group-title="上海",上海崇明电视台
+#EXTINF:-1 tvg-name="上海崇明电视台" tvg-logo="https://upload.112114.xyz/logo/崇明电视台.png" group-title="上海",上海崇明电视台
 https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
-#EXTINF:-1 tvg-name="上海金山电视台" tvg-logo="https://epg.112114.xyz/logo/金山电视台.png" group-title="上海",上海金山电视台
+#EXTINF:-1 tvg-name="上海金山电视台" tvg-logo="https://upload.112114.xyz/logo/金山电视台.png" group-title="上海",上海金山电视台
 https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
-#EXTINF:-1 tvg-name="上海嘉定电视台" tvg-logo="https://epg.112114.xyz/logo/嘉定电视台.png" group-title="上海",上海嘉定电视台
+#EXTINF:-1 tvg-name="上海嘉定电视台" tvg-logo="https://upload.112114.xyz/logo/嘉定电视台.png" group-title="上海",上海嘉定电视台
 https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="上海",五星体育
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
@@ -290,26 +290,26 @@ http://[2409:8087:3c02:21::1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANN
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/1.m3u8
 #EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="湖南",先锋乒羽
 http://[2409:8087:3c02:21::1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000650/index.m3u8?IASHttpSessionId=$720P
-#EXTINF:-1 tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://epg.112114.xyz/logo/湖北综合.png" group-title="湖北",湖北综合
+#EXTINF:-1 tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://upload.112114.xyz/logo/湖北综合.png" group-title="湖北",湖北综合
 http://27.24.224.108:8888/udp/239.69.1.42:9892
 http://119.98.133.179:4000/udp/239.69.1.42:9892
 http://59.173.183.242:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 https://stream1.freetv.fun/hu-bei-zong-he-2.ctv
-#EXTINF:-1 tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://epg.112114.xyz/logo/湖北影视.png" group-title="湖北",湖北影视
+#EXTINF:-1 tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://upload.112114.xyz/logo/湖北影视.png" group-title="湖北",湖北影视
 http://58.50.156.217:4022/udp/239.69.1.204:10866
 http://nasyc.cn:4022/udp/239.69.1.204:10866
-#EXTINF:-1 tvg-id="湖北教育" tvg-name="湖北教育" tvg-logo="https://epg.112114.xyz/logo/湖北影视.png" group-title="湖北",湖北教育
+#EXTINF:-1 tvg-id="湖北教育" tvg-name="湖北教育" tvg-logo="https://upload.112114.xyz/logo/湖北影视.png" group-title="湖北",湖北教育
 http://www.xk8.top:8001/udp/239.69.1.206:10878
-#EXTINF:-1 tvg-id="湖北生活" tvg-name="湖北生活" tvg-logo="https://epg.112114.xyz/logo/湖北影视.png" group-title="湖北",湖北生活
+#EXTINF:-1 tvg-id="湖北生活" tvg-name="湖北生活" tvg-logo="https://upload.112114.xyz/logo/湖北影视.png" group-title="湖北",湖北生活
 http://58.50.156.217:4022/udp/239.69.1.205:10872
 http://27.28.224.70:8989/udp/239.69.1.205:10872
-#EXTINF:-1 tvg-id="湖北公共" tvg-name="湖北公共" tvg-logo="https://epg.112114.xyz/logo/湖北公共.png" group-title="湖北",湖北公共·新闻
+#EXTINF:-1 tvg-id="湖北公共" tvg-name="湖北公共" tvg-logo="https://upload.112114.xyz/logo/湖北公共.png" group-title="湖北",湖北公共·新闻
 http://27.24.224.92:8888/udp/239.69.1.40:9880
 http://122.189.103.194:8010/udp/228.0.0.124:6108
-#EXTINF:-1 tvg-id="湖北经视" tvg-name="湖北经视" tvg-logo="https://epg.112114.xyz/logo/湖北经视.png" group-title="湖北",湖北经视
+#EXTINF:-1 tvg-id="湖北经视" tvg-name="湖北经视" tvg-logo="https://upload.112114.xyz/logo/湖北经视.png" group-title="湖北",湖北经视
 http://www.xk8.top:8001/udp/239.69.1.41:9886
 http://nasyc.cn:4022/udp/239.69.1.41:9886
-#EXTINF:-1 tvg-id="湖北垄上" tvg-name="湖北垄上" tvg-logo="https://epg.112114.xyz/logo/湖北垄上.png" group-title="湖北",湖北垄上
+#EXTINF:-1 tvg-id="湖北垄上" tvg-name="湖北垄上" tvg-logo="https://upload.112114.xyz/logo/湖北垄上.png" group-title="湖北",湖北垄上
 http://www.xk8.top:8001/udp/239.69.1.43:9898
 #EXTINF:-1 tvg-id="赤壁综合" tvg-name="赤壁综合" tvg-logo="https://bkimg.cdn.bcebos.com/pic/f31fbe096b63f6246b6071ad3614fcf81a4c510f0546" group-title="湖北",赤壁综合
 https://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1735660799-0-0-1751de0a4678e4571fe2af86220e2a2b&extra_key=
@@ -405,31 +405,31 @@ http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHAN
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000282/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="青州综合" tvg-logo="https://live.fanmingming.com/tv/青州综合.png" group-title="山东",青州综合
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001042/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="河北经济" tvg-logo="https://epg.112114.xyz/logo/河北经济生活.png" group-title="河北",河北经济
+#EXTINF:-1 tvg-name="河北经济" tvg-logo="https://upload.112114.xyz/logo/河北经济生活.png" group-title="河北",河北经济
 http://106.116.2.124:8890/udp/239.254.200.18:6000
 http://www.bg3nit.top:8888/udp/239.253.92.171:6001
 http://101.31.56.77:4022/udp/239.253.92.171:6001
-#EXTINF:-1 tvg-name="河北农民" tvg-logo="https://epg.112114.xyz/logo/河北农民.png" group-title="河北",河北农民
+#EXTINF:-1 tvg-name="河北农民" tvg-logo="https://upload.112114.xyz/logo/河北农民.png" group-title="河北",河北农民
 http://106.116.2.124:8890/udp/239.254.200.23:6000
 http://www.bg3nit.top:8888/udp/239.253.92.176:6006
 http://101.31.56.77:4022/udp/239.253.92.176:6006
 http://120.6.7.200:4022/udp/239.253.92.176:6006
-#EXTINF:-1 tvg-name="河北都市" tvg-logo="https://epg.112114.xyz/logo/河北都市.png" group-title="河北",河北都市
+#EXTINF:-1 tvg-name="河北都市" tvg-logo="https://upload.112114.xyz/logo/河北都市.png" group-title="河北",河北都市
 http://106.116.2.124:8890/udp/239.254.200.19:6000
 http://www.bg3nit.top:8888/udp/239.253.92.172:6002
 http://101.31.56.77:4022/udp/239.253.92.172:6002
 http://cdlpgs.cn:16000/udp/239.253.92.172:6002
 http://121.29.138.245:4022/udp/239.253.92.172:6002
-#EXTINF:-1 tvg-name="河北影视剧" tvg-logo="https://epg.112114.xyz/logo/河北影视剧.png" group-title="河北",河北影视剧
+#EXTINF:-1 tvg-name="河北影视剧" tvg-logo="https://upload.112114.xyz/logo/河北影视剧.png" group-title="河北",河北影视剧
 http://106.116.2.124:8890/udp/239.254.200.20:6000
 http://www.bg3nit.top:8888/udp/239.253.92.173:6003
 http://101.31.56.77:4022/udp/239.253.92.173:6003
 http://121.29.138.245:4022/udp/239.253.92.173:6003
-#EXTINF:-1 tvg-name="河北少儿" tvg-logo="https://epg.112114.xyz/logo/河北少儿科教.png" group-title="河北",河北少儿
+#EXTINF:-1 tvg-name="河北少儿" tvg-logo="https://upload.112114.xyz/logo/河北少儿科教.png" group-title="河北",河北少儿
 http://106.116.2.124:8890/udp/239.254.200.21:6000
 http://www.bg3nit.top:8888/udp/239.253.92.174:6004
 http://101.31.56.77:4022/udp/239.253.92.174:6004
-#EXTINF:-1 tvg-name="河北公共" tvg-logo="https://epg.112114.xyz/logo/河北公共.png" group-title="河北",河北文旅公共
+#EXTINF:-1 tvg-name="河北公共" tvg-logo="https://upload.112114.xyz/logo/·河北公共.png" group-title="河北",河北文旅公共
 http://106.116.2.124:8890/udp/239.254.200.22:6000
 http://www.bg3nit.top:8888/udp/239.253.92.175:6005
 http://101.31.56.77:4022/udp/239.253.92.175:6005
@@ -441,10 +441,10 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/heilongjiang/Heilongjiang3.png" group-title="黑龙江",黑龙江影视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
-#EXTINF:-1 tvg-id="海南新闻" tvg-name="海南新闻" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hainan/Hainan2.png" group-title="海南",海南新闻
+#EXTINF:-1 tvg-id="海南新闻" tvg-name="海南新闻" tvg-logo="https://upload.112114.xyz/logo/海南新闻.png" group-title="海南",海南新闻
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/1.m3u8
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000321/index.m3u8?IAS
-#EXTINF:-1 tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hainan/Hainan6.png" group-title="海南",海南自贸
+#EXTINF:-1 tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="https://upload.112114.xyz/logo/海南自贸.png" group-title="海南",海南自贸
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/1.m3u8
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?IAS
 #EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://live.fanmingming.com/tv/海南文旅.png" group-title="海南",海南文旅
