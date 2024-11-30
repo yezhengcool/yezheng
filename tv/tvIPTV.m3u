@@ -537,6 +537,7 @@ http://39.134.134.83/000000000001/PLTV/88888888/224/3221235755/index.m3u8?HlsPro
 #EXTINF:-1 tvg-name="NewTV东北热剧" tvg-logo="https://live.fanmingming.com/tv/NewTV东北热剧.png" group-title="数字付费频道",NewTV东北热剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 #EXTINF:-1 tvg-name="NewTV超级体育" tvg-logo="https://live.fanmingming.com/tv/NewTV超级体育.png" group-title="数字付费频道",NewTV超级体育
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000020/index.m3u8
 http://39.134.134.49/000000000001/PLTV/88888888/224/3221285257/index.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-name="NewTV超级综艺" tvg-logo="https://live.fanmingming.com/tv/NewTV超级综艺.png" group-title="数字付费频道",NewTV超级综艺
 http://39.134.134.43/000000000001/PLTV/88888888/224/3221284672/index.m3u8?HlsProfileId=
@@ -583,10 +584,13 @@ http://39.134.135.84/000000000001/PLTV/88888888/224/3221236214/index.m3u8?HlsPro
 #EXTINF:-1 tvg-name="NewTV超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NewTV超级电视剧.png" group-title="数字付费频道",NewTV超级电视剧
 http://39.134.134.49/000000000001/PLTV/88888888/224/3221285265/index.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-name="咪咕晴彩青少(足球)" tvg-logo="https://live.fanmingming.com/tv/咪咕晴彩青少(足球).png" group-title="数字付费频道",咪咕晴彩青少(足球)
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000120/index.m3u8
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 #EXTINF:-1 tvg-name="咪咕晴彩篮球" tvg-logo="https://live.fanmingming.com/tv/咪咕晴彩篮球.png" group-title="数字付费频道",咪咕晴彩篮球
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000118/index.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270002/1.m3u8
 #EXTINF:-1 tvg-name="咪咕晴彩竞技" tvg-logo="https://live.fanmingming.com/tv/咪咕晴彩竞技.png" group-title="数字付费频道",咪咕晴彩竞技
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000119/index.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270005/1.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="华城付费频道",CHC影迷电影
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
