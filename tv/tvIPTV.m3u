@@ -310,6 +310,8 @@ http://nasyc.cn:4022/udp/239.69.1.41:9886
 http://www.xk8.top:8001/udp/239.69.1.43:9898
 #EXTINF:-1 tvg-id="赤壁综合" tvg-name="赤壁综合" tvg-logo="https://bkimg.cdn.bcebos.com/pic/f31fbe096b63f6246b6071ad3614fcf81a4c510f0546" group-title="湖北",赤壁综合
 https://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1735660799-0-0-1751de0a4678e4571fe2af86220e2a2b&extra_key=
+#EXTINF:-1 tvg-id="咸宁综合" tvg-name="咸宁综合" tvg-logo="http://tb.91kds.cn/tb/hbxntv.jpg" group-title="湖北",咸宁综合
+https://xianning-live21.cjyun.org/10140/s10140-XNTV-1.m3u8?auth_key=1735660799-0-0-b380d98b910466afbd9053c25a7dc408
 #EXTINF:-1 tvg-id="荆门新闻综合" tvg-name="荆门新闻综合" tvg-logo="https://tiebapic.baidu.com/forum/pic/item/592e09f790529822053c6fe291ca7bcb0a46d495.jpg?tbpicau=2024-12-08-05_8342b0004dbf5f7fc57720605ee143eb" group-title="湖北",荆门新闻综合
 http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
 #EXTINF:-1 tvg-id="崇阳综合" tvg-name="崇阳综合" tvg-logo="https://img0.baidu.com/it/u=3741297634,814003454&fm=253&fmt=auto&app=138&f=JPEG?w=470&h=470" group-title="湖北",崇阳综合
@@ -550,7 +552,8 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/6859053933687922163/1.m3u8
 #EXTINF:-1 tvg-name="NewTV欢乐剧场" tvg-logo="https://live.fanmingming.com/tv/NewTV欢乐剧场.png" group-title="数字付费频道",NewTV欢乐剧场
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000091/index.m3u8
 #EXTINF:-1 tvg-name="NewTV热播精选" tvg-logo="https://live.fanmingming.com/tv/NewTV热播精选.png" group-title="数字付费频道",NewTV热播精选
-http://39.134.135.82/000000000001/PLTV/88888888/224/3221236211/index.m3u8?HlsProfileId=
+http://[2409:8087:74d9:21::6]/270000001128/9900000115/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 #EXTINF:-1 tvg-name="NewTV怡伴健康" tvg-logo="https://live.fanmingming.com/tv/NewTV怡伴健康.png" group-title="数字付费频道",NewTV怡伴健康
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010082/1.m3u8
 #EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="https://live.fanmingming.com/tv/NewTV军旅剧场.png" group-title="数字付费频道",NewTV军旅剧场
@@ -574,7 +577,7 @@ http://[2409:8087:74d9:21::6]:80/270000001128/9900000113/index.m3u8
 #EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="https://live.fanmingming.com/tv/NewTV家庭剧场.png" group-title="数字付费频道",NewTV家庭剧场
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000108/index.m3u8
 #EXTINF:-1 tvg-name="NewTV精品综合" tvg-logo="https://live.fanmingming.com/tv/NewTV精品综合.png" group-title="数字付费频道",NewTV精品综合
-http://39.134.134.47/000000000001/PLTV/88888888/224/3221284728/index.m3u8?HlsProfileId=
+http://[2409:8087:5e01:24::10]:6610/200000001898/460000089800010084/1.m3u8?IASHttpSessionId=RR
 #EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="https://live.fanmingming.com/tv/NewTV农业致富.png" group-title="数字付费频道",NewTV农业致富
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010085/1.m3u8
 #EXTINF:-1 tvg-name="NewTV炫舞未来" tvg-logo="https://live.fanmingming.com/tv/NewTV炫舞未来.png" group-title="数字付费频道",NewTV炫舞未来
