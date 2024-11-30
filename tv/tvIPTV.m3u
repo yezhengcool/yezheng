@@ -312,6 +312,8 @@ http://www.xk8.top:8001/udp/239.69.1.43:9898
 https://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1735660799-0-0-1751de0a4678e4571fe2af86220e2a2b&extra_key=
 #EXTINF:-1 tvg-id="咸宁综合" tvg-name="咸宁综合" tvg-logo="http://tb.91kds.cn/tb/hbxntv.jpg" group-title="湖北",咸宁综合
 https://xianning-live21.cjyun.org/10140/s10140-XNTV-1.m3u8?auth_key=1735660799-0-0-b380d98b910466afbd9053c25a7dc408
+#EXTINF:-1 tvg-id="咸宁经济生活" tvg-name="咸宁经济生活" tvg-logo="http://tb.91kds.cn/tb/hbxntv.jpg" group-title="湖北",咸宁经济生活
+https://xianning-live21.cjyun.org/10140/s10140-XNGG.m3u8?auth_key=1735660799-0-0-d81f4b2fc33920d8341033fef8dcfd16
 #EXTINF:-1 tvg-id="荆门新闻综合" tvg-name="荆门新闻综合" tvg-logo="https://tiebapic.baidu.com/forum/pic/item/592e09f790529822053c6fe291ca7bcb0a46d495.jpg?tbpicau=2024-12-08-05_8342b0004dbf5f7fc57720605ee143eb" group-title="湖北",荆门新闻综合
 http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
 #EXTINF:-1 tvg-id="崇阳综合" tvg-name="崇阳综合" tvg-logo="https://img0.baidu.com/it/u=3741297634,814003454&fm=253&fmt=auto&app=138&f=JPEG?w=470&h=470" group-title="湖北",崇阳综合
