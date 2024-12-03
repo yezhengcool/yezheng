@@ -617,7 +617,7 @@
 	"lives": [{
 			"name": "live",
 			"type": 0,
-			"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yezhengcool/yezheng/main/tvIPTV_20240801.txt",
+			"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yezhengcool/yezheng/main/tv/tvIPTV_20240801.txt",
 			"playerType": 1,
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -625,13 +625,13 @@
 		{
 			"name": "TV",
 			"type": 0,
-			"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yezhengcool/yezheng/main/tvIPTV.m3u",
+			"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yezhengcool/yezheng/main/tv/tvIPTV.m3u",
 			"playerType": 1
 		},
 		{
 			"name": "IPV6",
 			"type": 0,
-			"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yezhengcool/yezheng/main/2.m3u",
+			"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yezhengcool/yezheng/main/tv/aptv.m3u",
 			"playerType": 1
 		}
 	]
