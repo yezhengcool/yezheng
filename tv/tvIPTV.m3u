@@ -312,6 +312,8 @@ http://nasyc.cn:4022/udp/239.69.1.41:9886
 http://www.xk8.top:8001/udp/239.69.1.43:9898
 #EXTINF:-1 tvg-id="赤壁综合" tvg-name="赤壁综合" tvg-logo="https://bkimg.cdn.bcebos.com/pic/f31fbe096b63f6246b6071ad3614fcf81a4c510f0546" group-title="湖北",赤壁综合
 https://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1735660799-0-0-1751de0a4678e4571fe2af86220e2a2b&extra_key=
+#EXTINF:-1 tvg-id="嘉鱼综合" tvg-name="嘉鱼综合" tvg-logo="http://tb.91kds.cn/tb1/hbxnjy.jpg" group-title="湖北",嘉鱼综合
+https://jiayu-live21.cjyun.org/10131/s10131-jyzh.m3u8?auth_key=1735660799-0-0-05395acf38fa1497c0985dcb4c329c0b
 #EXTINF:-1 tvg-id="咸宁综合" tvg-name="咸宁综合" tvg-logo="http://tb.91kds.cn/tb/hbxntv.jpg" group-title="湖北",咸宁综合
 https://xianning-live21.cjyun.org/10140/s10140-XNTV-1.m3u8?auth_key=1735660799-0-0-b380d98b910466afbd9053c25a7dc408
 #EXTINF:-1 tvg-id="咸宁经济生活" tvg-name="咸宁经济生活" tvg-logo="http://tb.91kds.cn/tb/hbxntv.jpg" group-title="湖北",咸宁经济生活
