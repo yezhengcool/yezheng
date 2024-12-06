@@ -477,17 +477,17 @@ http://121.29.138.245:4022/udp/239.253.92.173:6003
 http://106.116.2.124:8890/udp/239.254.200.21:6000
 http://www.bg3nit.top:8888/udp/239.253.92.174:6004
 http://101.31.56.77:4022/udp/239.253.92.174:6004
-#EXTINF:-1 tvg-name="河北公共" tvg-logo="https://upload.112114.xyz/logo/·河北公共.png" group-title="河北",河北文旅公共
+#EXTINF:-1 tvg-name="河北公共" tvg-logo="https://upload.112114.xyz/logo/河北公共.png" group-title="河北",河北文旅公共
 http://106.116.2.124:8890/udp/239.254.200.22:6000
 http://www.bg3nit.top:8888/udp/239.253.92.175:6005
 http://101.31.56.77:4022/udp/239.253.92.175:6005
-#EXTINF:-1 tvg-id="黑龙江文体" tvg-name="黑龙江文体" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/heilongjiang/Heilongjiang2.png" group-title="黑龙江",黑龙江文体
+#EXTINF:-1 tvg-id="黑龙江文体" tvg-name="黑龙江文体" tvg-logo="https://upload.112114.xyz/logo/黑龙江文体.png" group-title="黑龙江",黑龙江文体
 http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
-#EXTINF:-1 tvg-id="黑龙江都市" tvg-name="黑龙江都市" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/heilongjiang/Heilongjiang4.png" group-title="黑龙江",黑龙江都市
+#EXTINF:-1 tvg-id="黑龙江都市" tvg-name="黑龙江都市" tvg-logo="https://upload.112114.xyz/logo/黑龙江都市.png" group-title="黑龙江",黑龙江都市
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
-#EXTINF:-1 tvg-id="黑龙江少儿" tvg-name="黑龙江少儿" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/heilongjiang/Heilongjiang6.png" group-title="黑龙江",黑龙江少儿
+#EXTINF:-1 tvg-id="黑龙江少儿" tvg-name="黑龙江少儿" tvg-logo="https://upload.112114.xyz/logo/黑龙江少儿.png" group-title="黑龙江",黑龙江少儿
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
-#EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/heilongjiang/Heilongjiang3.png" group-title="黑龙江",黑龙江影视
+#EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://upload.112114.xyz/logo/黑龙江影视.png" group-title="黑龙江",黑龙江影视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 #EXTINF:-1 tvg-id="海南新闻" tvg-name="海南新闻" tvg-logo="https://upload.112114.xyz/logo/海南新闻.png" group-title="海南",海南新闻
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/1.m3u8
