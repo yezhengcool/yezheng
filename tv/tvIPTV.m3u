@@ -683,7 +683,7 @@ http://[2409:8087:74d9:21::6]:80/270000001128/9900000098/index.m3u8
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000101/index.m3u8
 #EXTINF:-1 tvg-name="NewTV超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="数字付费频道",NewTV超级电视剧
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000022/index.m3u8
-#EXTINF:-1 tvg-name="咪咕晴彩青少(足球)" tvg-logo="https://upload.112114.xyz/logo/晴彩青少.png" group-title="数字付费频道",咪咕晴彩青少(足球)
+#EXTINF:-1 tvg-name="咪咕晴彩青少" tvg-logo="https://upload.112114.xyz/logo/晴彩青少.png" group-title="数字付费频道",咪咕晴彩青少
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000120/index.m3u8
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 #EXTINF:-1 tvg-name="咪咕晴彩篮球" tvg-logo="https://upload.112114.xyz/logo/晴彩篮球.png" group-title="数字付费频道",咪咕晴彩篮球
