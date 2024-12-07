@@ -559,7 +559,7 @@ https://litv.zapi.us.kg/?id=litv-longturn21
 #EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://upload.112114.xyz/logo/龙华日韩.png" group-title="港澳",龙华日韩
 http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 https://litv.zapi.us.kg/?id=litv-longturn11
-#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://upload.112114.xyz/logo/龙华卡通.png" group-title="港澳",龙华卡通
+#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://upload.112114.xyz/logo/龙华卡通台.png" group-title="港澳",龙华卡通
 https://litv.zapi.us.kg/?id=litv-longturn01
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://upload.112114.xyz/logo/龙华电影.png" group-title="港澳",龙华电影
 http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
