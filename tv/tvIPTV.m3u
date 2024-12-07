@@ -554,17 +554,19 @@ http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 #EXTINF:-1 tvg-name="靖天电影台" tvg-logo="https://upload.112114.xyz/logo/靖天电影台.png" group-title="港澳",靖天电影台
 http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 #EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://upload.112114.xyz/logo/龙华经典.png" group-title="港澳",龙华经典
+https://litv.zapi.us.kg/?id=litv-longturn21
 http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 #EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://upload.112114.xyz/logo/龙华日韩.png" group-title="港澳",龙华日韩
 https://litv.zapi.us.kg/?id=litv-longturn11
 http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://upload.112114.xyz/logo/龙华偶像.png" group-title="港澳",龙华偶像
-https://litv.zapi.us.kg/?id=litv-longturn12
 #EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://upload.112114.xyz/logo/龙华卡通.png" group-title="港澳",龙华卡通
 https://litv.zapi.us.kg/?id=litv-longturn01
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://upload.112114.xyz/logo/龙华电影.png" group-title="港澳",龙华电影
-https://litv.zapi.us.kg/?id=litv-longturn03
 http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://upload.112114.xyz/logo/龙华偶像.png" group-title="港澳",龙华偶像
+https://litv.zapi.us.kg/?id=litv-longturn12
+#EXTINF:-1 tvg-name="民视第一" tvg-logo="https://upload.112114.xyz/logo/民视第一.png" group-title="港澳",民视第一
+https://litv.zapi.us.kg/?id=4gtv-4gtv003
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://upload.112114.xyz/logo/中天新闻台.png" group-title="港澳",中天新闻台
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="https://upload.112114.xyz/logo/寰宇新闻台.png" group-title="港澳",寰宇新闻台
@@ -585,6 +587,12 @@ http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="港澳",星空卫视
 http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.156:2193
+#EXTINF:-1 tvg-name="Channel 5" tvg-logo="" group-title="港澳",Channel 5
+http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-logo="" group-title="港澳",Channel 8
+http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1 tvg-name="Channel U" tvg-logo="" group-title="港澳",Channel U
+http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 #EXTINF:-1 tvg-name="Channel[V]" tvg-logo="https://live.fanmingming.com/tv/channelv.png" group-title="港澳",Channel[V]
 http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.157:2194
 #EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://live.fanmingming.com/tv/文物宝库.png" group-title="数字付费频道",文物宝库
