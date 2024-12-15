@@ -287,7 +287,7 @@ http://[2409:8087:3c02:21::1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANN
 #EXTINF:-1 tvg-name="茶友频道" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="湖南",茶友频道
 http://[2409:8087:3c02:21::1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000649/index.m3u8?IASHttpSessionId=
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/1.m3u8
-#EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="湖南",先锋乒羽
+#EXTINF:-1 tvg-name="先锋乒羽" tvg-lgo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="湖南",先锋乒羽
 http://[2409:8087:3c02:21::1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000650/index.m3u8?IASHttpSessionId=$720P
 #EXTINF:-1 tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://upload.112114.xyz/logo/湖北综合.png" group-title="湖北",湖北综合
 http://59.174.96.127:8880/udp/239.69.1.42:9892
@@ -524,7 +524,8 @@ http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 #EXTINF:-1 tvg-name="Dali TV" tvg-logo="https://img1.baidu.com/it/u=2902258457,1332562382&fm=253&fmt=auto&app=138&f=JPEG?w=372&h=127" group-title="港澳",Dali TV
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://live.fanmingming.com/tv/TVBS欢乐.png" group-title="港澳",TVBS欢乐
-http://37.27.111.214:8080/live/24/hls.m3u8#http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8
+http://37.27.111.214:8080/live/24/hls.m3u8
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="港澳",TVBS新闻
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 http://61.221.215.25:8800/hls/9/index.m3u8
