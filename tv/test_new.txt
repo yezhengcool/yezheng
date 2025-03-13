@@ -1,2 +1,0 @@
-http://utuxx.91kds.cn/live1/jdtv2.m3u8?isp=dx&id=hnjy&pwd=jsdecode
-http://utuxx.91kds.cn/live1/cctvxw.m3u8?bt=2&id=cctv1hd&app=org.jykds.tvlive&version=2.2.6&mac=fu:ck:92:92:ff&nwtime=1734674583&sign=a8f9791c823bed1de972f3b531114b84&ev=20240918
