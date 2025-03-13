@@ -611,7 +611,7 @@
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "url": "https://jx.xmflv.com/?url=http://leafstudio.fh4u.org/tv1.txt",
+      "url": "https://jx.xmflv.com/?url=http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=IPTV1",
       "playerType": 1,
       "catchup": {
         "type": "append",
