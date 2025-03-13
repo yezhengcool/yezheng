@@ -1,3 +1,2 @@
-魅力足球,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031207/1.m3u8
-CGTN,https://0472.org/hls/cgtn.m3u8
-CGTN,https://live.fanmingming.com/player/?vurl=https://0472.org/hls/cgtn.m3u8
+http://utuxx.91kds.cn/live1/jdtv2.m3u8?isp=dx&id=hnjy&pwd=jsdecode
+http://utuxx.91kds.cn/live1/cctvxw.m3u8?bt=2&id=cctv1hd&app=org.jykds.tvlive&version=2.2.6&mac=fu:ck:92:92:ff&nwtime=1734674583&sign=a8f9791c823bed1de972f3b531114b84&ev=20240918
