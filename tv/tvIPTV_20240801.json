@@ -6,7 +6,7 @@
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "url": "http://leafstudio.fh4u.org/tv2.txt",
+      "url": "http://leafstudio.fh4u.org/tv1.txt",
       "playerType": 1,
       "catchup": {
         "type": "append",
