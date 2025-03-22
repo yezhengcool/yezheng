@@ -54,7 +54,7 @@ http://z.b.bkpcp.top/m.php?id=cctv14
 #EXTINF:-1 tvg-name="CCTV-15" tvg-logo="https://upload.112114.xyz/logo/CCTV15.png" tvg-id="20" group-title="央视",CCTV-15 音乐
 http://z.b.bkpcp.top/m.php?id=cctv15
 #EXTINF:-1 tvg-name="CCTV-16" tvg-logo="https://upload.112114.xyz/logo/CCTV16.png" tvg-id="21" group-title="央视",CCTV-16 奥林匹克
-http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-16-HQ/G_CCTV-16-HQ.m3u8
+rtsp://60.13.39.18/PLTV/88888910/224/3221225605/10000100000000060000000000566169_0.smil
 #EXTINF:-1 tvg-name="CCTV-17" tvg-logo="https://upload.112114.xyz/logo/CCTV17.png" tvg-id="23" group-title="央视",CCTV-17 农业农村
 http://z.b.bkpcp.top/m.php?id=cctv17
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视",CCTV-兵器科技
