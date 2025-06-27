@@ -1,6 +1,7 @@
 #EXTM3U x-tvg-url="http://live.kakaxi-1.ink/epg.xml"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV1.png" group-title="央视频道",CCTV-1
 http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000001
+http://20.253.1.16/PLTV/88888888/224/3221225703/10000100000000060000000000035351_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV2.png" group-title="央视频道",CCTV-2
 http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000502
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV3.png" group-title="央视频道",CCTV-3
