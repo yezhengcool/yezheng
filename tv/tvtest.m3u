@@ -5,12 +5,15 @@ http://20.253.1.25/PLTV/88888888/224/3221225703/10000100000000060000000000035351
 http://39.134.67.108/PLTV/88888888/224/3221226119/1.m3u8$移动IPTV1080P
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV2.png" group-title="央视频道",CCTV-2 财经
 http://20.253.1.6/PLTV/88888888/224/3221225881/10000100000000060000000001558309_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8$联通IPTV1080P
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV2.png" group-title="央视频道",CCTV-2 财经
 http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8$移动IPTV1080P
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV3.png" group-title="央视频道",CCTV-3 综艺
 http://20.253.1.33/PLTV/88888888/224/3221225861/10000100000000060000000001067918_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8$联通IPTV1080P
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV3.png" group-title="央视频道",CCTV-3 综艺
 http://39.134.67.108/PLTV/88888888/224/3221225799/1.m3u8$移动IPTV1080P
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
 http://20.253.1.29/PLTV/88888888/224/3221225882/10000100000000060000000001558308_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8$联通IPTV1080P
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
 http://39.134.67.108/PLTV/88888888/224/3221225797/1.m3u8$移动IPTV1080P
 #EXTINF:-1 tvg-id="CCTV4O" tvg-name="CCTV4O" tvg-logo="https://upload.112114.xyz/logo/CCTV-4欧洲.png" group-title="央视频道",CCTV-4 欧洲
 http://www.dwphic.com:9999/udp/239.69.1.231:11028
@@ -18,44 +21,57 @@ http://www.dwphic.com:9999/udp/239.69.1.231:11028
 http://www.dwphic.com:9999/udp/239.69.1.232:11034
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://20.253.1.8/PLTV/88888888/224/3221225862/10000100000000060000000001067915_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8$联通IPTV1080P
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8$移动IPTV1080P
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
 http://39.134.65.196/PLTV/88888888/224/3221225507/1.m3u8$移动IPTV1080P
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
 http://swtyc.f3322.org:8880/udp/239.253.157.99:8568
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV6.png" group-title="央视频道",CCTV-6 电影
 http://20.253.1.8/PLTV/88888888/224/3221225863/10000100000000060000000001067916_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8$联通IPTV1080P
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV6.png" group-title="央视频道",CCTV-6 电影
 http://39.134.67.108/PLTV/88888888/224/3221225814/1.m3u8$移动IPTV1080P
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
 http://20.253.1.18/PLTV/88888888/224/3221225887/10000100000000060000000001558688_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8$联通IPTV1080P
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
 http://39.134.67.108/PLTV/88888888/224/3221225671/1.m3u8$移动IPTV1080P
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
 http://20.253.1.30/PLTV/88888888/224/3221225864/10000100000000060000000001067917_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8$联通IPTV1080P
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
 http://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8$移动IPTV1080P
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV9.png" group-title="央视频道",CCTV-9 记录
 http://20.253.1.17/PLTV/88888888/224/3221225888/10000100000000060000000001558690_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8$联通IPTV1080P
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV9.png" group-title="央视频道",CCTV-9 记录
 http://39.134.67.108/PLTV/88888888/224/3221225676/1.m3u8$移动IPTV1080P
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV10.png" group-title="央视频道",CCTV-10 科教
 http://20.253.1.16/PLTV/88888888/224/3221225889/10000100000000060000000001558694_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8$联通IPTV1080P
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV10.png" group-title="央视频道",CCTV-10 科教
 http://39.134.67.108/PLTV/88888888/224/3221225677/1.m3u8$移动IPTV1080P
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
 http://20.253.1.38/PLTV/88888888/224/3221226034/10000100000000060000000002233116_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8$联通IPTV1080P
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
 http://39.134.67.108/PLTV/88888888/224/3221225517/1.m3u8$移动IPTV1080P
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
 http://20.253.1.16/PLTV/88888888/224/3221225890/10000100000000060000000001558689_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8$联通IPTV1080P
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
 http://39.134.67.108/PLTV/88888888/224/3221225669/1.m3u8$移动IPTV1080P
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV13.png" group-title="央视频道",CCTV-13 新闻
 http://20.253.1.38/PLTV/88888888/224/3221226036/10000100000000060000000002233161_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8$联通IPTV1080P
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV13.png" group-title="央视频道",CCTV-13 新闻
 http://39.134.67.108/PLTV/88888888/224/3221226125/1.m3u8$移动IPTV1080P
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV14.png" group-title="央视频道",CCTV-14 少儿
 http://20.253.1.8/PLTV/88888888/224/3221225891/10000100000000060000000001558693_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8$联通IPTV1080P
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV14.png" group-title="央视频道",CCTV-14 少儿
 http://39.134.67.108/PLTV/88888888/224/3221225674/1.m3u8$移动IPTV1080P
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV15.png" group-title="央视频道",CCTV-15 音乐
 http://20.253.1.38/PLTV/88888888/224/3221226035/10000100000000060000000002233162_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8$联通IPTV1080P
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV15.png" group-title="央视频道",CCTV-15 音乐
 http://39.134.63.11:6610/PLTV/88888888/224/3221226476/index.m3u8?$移动IPTV1080P
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
 http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8$移动IPTV1080P
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://20.253.1.8/PLTV/88888888/224/3221225892/10000100000000060000000001558692_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8$联通IPTV1080P
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8$移动IPTV1080P
 #EXTINF:-1 tvg-id="CCTV-怀旧剧场" tvg-name="CCTV-怀旧剧场" tvg-logo="https://upload.112114.xyz/logo/CCTV-怀旧剧场.png" group-title="央视频道",CCTV-怀旧剧场
 http://www.dwphic.com:9999/udp/239.69.1.89:10174
